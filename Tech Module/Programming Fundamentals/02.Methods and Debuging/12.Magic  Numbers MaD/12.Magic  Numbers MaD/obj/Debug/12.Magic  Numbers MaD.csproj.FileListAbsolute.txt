@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\12.Magic  Numbers MaD\12.Magic  Numbers MaD\bin\Debug\12.Magic  Numbers MaD.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\12.Magic  Numbers MaD\12.Magic  Numbers MaD\bin\Debug\12.Magic  Numbers MaD.exe
+c:\users\violeta\documents\visual studio 2015\Projects\12.Magic  Numbers MaD\12.Magic  Numbers MaD\bin\Debug\12.Magic  Numbers MaD.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\12.Magic  Numbers MaD\12.Magic  Numbers MaD\obj\Debug\12.Magic  Numbers MaD.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\12.Magic  Numbers MaD\12.Magic  Numbers MaD\obj\Debug\12.Magic  Numbers MaD.exe
+c:\users\violeta\documents\visual studio 2015\Projects\12.Magic  Numbers MaD\12.Magic  Numbers MaD\obj\Debug\12.Magic  Numbers MaD.pdb

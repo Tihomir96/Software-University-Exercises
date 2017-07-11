@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\8.Logs Aggregator\8.Logs Aggregator\bin\Debug\8.Logs Aggregator.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\8.Logs Aggregator\8.Logs Aggregator\bin\Debug\8.Logs Aggregator.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\8.Logs Aggregator\8.Logs Aggregator\bin\Debug\8.Logs Aggregator.pdb
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\8.Logs Aggregator\8.Logs Aggregator\obj\Debug\8.Logs Aggregator.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\8.Logs Aggregator\8.Logs Aggregator\obj\Debug\8.Logs Aggregator.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\8.Logs Aggregator\8.Logs Aggregator\obj\Debug\8.Logs Aggregator.pdb

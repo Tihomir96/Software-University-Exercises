@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\13.Factorial MaD\13.Factorial MaD\bin\Debug\13.Factorial MaD.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\13.Factorial MaD\13.Factorial MaD\bin\Debug\13.Factorial MaD.exe
+c:\users\violeta\documents\visual studio 2015\Projects\13.Factorial MaD\13.Factorial MaD\bin\Debug\13.Factorial MaD.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\13.Factorial MaD\13.Factorial MaD\obj\Debug\13.Factorial MaD.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\13.Factorial MaD\13.Factorial MaD\obj\Debug\13.Factorial MaD.exe
+c:\users\violeta\documents\visual studio 2015\Projects\13.Factorial MaD\13.Factorial MaD\obj\Debug\13.Factorial MaD.pdb

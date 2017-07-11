@@ -1,0 +1,5 @@
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 9\Data Types and Variables 9\bin\Debug\Data Types and Variables 9.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 9\Data Types and Variables 9\bin\Debug\Data Types and Variables 9.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 9\Data Types and Variables 9\bin\Debug\Data Types and Variables 9.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 9\Data Types and Variables 9\obj\Debug\Data Types and Variables 9.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 9\Data Types and Variables 9\obj\Debug\Data Types and Variables 9.pdb

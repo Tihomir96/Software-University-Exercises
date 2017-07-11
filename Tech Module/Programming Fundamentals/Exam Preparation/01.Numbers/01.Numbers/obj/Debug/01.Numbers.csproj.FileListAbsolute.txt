@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Numbers\01.Numbers\bin\Debug\01.Numbers.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Numbers\01.Numbers\bin\Debug\01.Numbers.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Numbers\01.Numbers\bin\Debug\01.Numbers.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Numbers\01.Numbers\obj\Debug\01.Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Numbers\01.Numbers\obj\Debug\01.Numbers.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Numbers\01.Numbers\obj\Debug\01.Numbers.pdb

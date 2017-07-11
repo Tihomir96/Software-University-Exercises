@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\4. Maximal Sum\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\4. Maximal Sum\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\4. Maximal Sum\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.pdb
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\4. Maximal Sum\4. Maximal Sum\obj\Debug\4. Maximal Sum.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\4. Maximal Sum\4. Maximal Sum\obj\Debug\_4.Maximal_Sum.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\4. Maximal Sum\4. Maximal Sum\obj\Debug\_4.Maximal_Sum.pdb

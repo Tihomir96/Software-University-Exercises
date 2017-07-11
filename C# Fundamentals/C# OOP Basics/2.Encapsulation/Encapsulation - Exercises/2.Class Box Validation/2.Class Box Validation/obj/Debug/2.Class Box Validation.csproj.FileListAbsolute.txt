@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\2.Class Box Validation\2.Class Box Validation\bin\Debug\2.Class Box Validation.exe.config
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\2.Class Box Validation\2.Class Box Validation\bin\Debug\2.Class Box Validation.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\2.Class Box Validation\2.Class Box Validation\bin\Debug\2.Class Box Validation.pdb
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\2.Class Box Validation\2.Class Box Validation\obj\Debug\2.Class Box Validation.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\2.Class Box Validation\2.Class Box Validation\obj\Debug\2.Class Box Validation.pdb

@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\5.Phonebook\5.Phonebook\bin\Debug\5.Phonebook.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\5.Phonebook\5.Phonebook\bin\Debug\5.Phonebook.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\5.Phonebook\5.Phonebook\bin\Debug\5.Phonebook.pdb
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\5.Phonebook\5.Phonebook\obj\Debug\5.Phonebook.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\5.Phonebook\5.Phonebook\obj\Debug\5.Phonebook.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\5.Phonebook\5.Phonebook\obj\Debug\5.Phonebook.pdb

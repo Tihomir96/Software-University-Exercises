@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Arrange Integers\1.Arrange Integers\bin\Debug\1.Arrange Integers.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Arrange Integers\1.Arrange Integers\bin\Debug\1.Arrange Integers.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Arrange Integers\1.Arrange Integers\bin\Debug\1.Arrange Integers.pdb
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Arrange Integers\1.Arrange Integers\obj\Debug\1.Arrange Integers.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Arrange Integers\1.Arrange Integers\obj\Debug\1.Arrange Integers.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Arrange Integers\1.Arrange Integers\obj\Debug\1.Arrange Integers.pdb

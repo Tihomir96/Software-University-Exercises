@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\02.Rotate and Sum .Arrays\02.Rotate and Sum .Arrays\bin\Debug\_02.Rotate_and_Sum.Arrays.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\02.Rotate and Sum .Arrays\02.Rotate and Sum .Arrays\obj\Debug\_02.Rotate_and_Sum.Arrays.exe
+c:\users\violeta\documents\visual studio 2015\Projects\02.Rotate and Sum .Arrays\02.Rotate and Sum .Arrays\obj\Debug\_02.Rotate_and_Sum.Arrays.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\02.Rotate and Sum .Arrays\02.Rotate and Sum .Arrays\obj\Debug\02.Rotate and Sum .Arrays.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\02.Rotate and Sum .Arrays\02.Rotate and Sum .Arrays\bin\Debug\_02.Rotate_and_Sum.Arrays.exe
+c:\users\violeta\documents\visual studio 2015\Projects\02.Rotate and Sum .Arrays\02.Rotate and Sum .Arrays\bin\Debug\_02.Rotate_and_Sum.Arrays.pdb

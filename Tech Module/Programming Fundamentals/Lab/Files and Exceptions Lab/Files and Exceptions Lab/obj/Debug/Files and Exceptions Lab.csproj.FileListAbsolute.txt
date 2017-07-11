@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\Files and Exceptions Lab\Files and Exceptions Lab\bin\Debug\Files and Exceptions Lab.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\Files and Exceptions Lab\Files and Exceptions Lab\bin\Debug\Files and Exceptions Lab.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\Files and Exceptions Lab\Files and Exceptions Lab\bin\Debug\Files and Exceptions Lab.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\Files and Exceptions Lab\Files and Exceptions Lab\obj\Debug\Files and Exceptions Lab.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\Files and Exceptions Lab\Files and Exceptions Lab\obj\Debug\Files and Exceptions Lab.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\Files and Exceptions Lab\Files and Exceptions Lab\obj\Debug\Files and Exceptions Lab.pdb

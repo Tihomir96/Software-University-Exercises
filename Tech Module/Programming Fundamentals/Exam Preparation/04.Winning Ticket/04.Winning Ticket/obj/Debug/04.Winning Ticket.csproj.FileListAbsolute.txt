@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\04.Winning Ticket\04.Winning Ticket\bin\Debug\04.Winning Ticket.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\04.Winning Ticket\04.Winning Ticket\bin\Debug\04.Winning Ticket.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\04.Winning Ticket\04.Winning Ticket\bin\Debug\04.Winning Ticket.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\04.Winning Ticket\04.Winning Ticket\obj\Debug\04.Winning Ticket.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\04.Winning Ticket\04.Winning Ticket\obj\Debug\04.Winning Ticket.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\04.Winning Ticket\04.Winning Ticket\obj\Debug\04.Winning Ticket.pdb

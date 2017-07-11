@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Football League\03.Football League\bin\Debug\03.Football League.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Football League\03.Football League\bin\Debug\03.Football League.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Football League\03.Football League\bin\Debug\03.Football League.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Football League\03.Football League\obj\Debug\03.Football League.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Football League\03.Football League\obj\Debug\03.Football League.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Football League\03.Football League\obj\Debug\03.Football League.pdb

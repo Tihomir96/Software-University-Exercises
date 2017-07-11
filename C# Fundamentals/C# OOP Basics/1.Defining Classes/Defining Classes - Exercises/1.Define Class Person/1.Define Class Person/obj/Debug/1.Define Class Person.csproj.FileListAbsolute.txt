@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\1.Define Class Person\1.Define Class Person\obj\Debug\1.Define Class Person.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\1.Define Class Person\1.Define Class Person\bin\Debug\1.Define Class Person.exe.config
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\1.Define Class Person\1.Define Class Person\bin\Debug\1.Define Class Person.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\1.Define Class Person\1.Define Class Person\bin\Debug\1.Define Class Person.pdb
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\1.Define Class Person\1.Define Class Person\obj\Debug\1.Define Class Person.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\1.Define Class Person\1.Define Class Person\obj\Debug\1.Define Class Person.pdb

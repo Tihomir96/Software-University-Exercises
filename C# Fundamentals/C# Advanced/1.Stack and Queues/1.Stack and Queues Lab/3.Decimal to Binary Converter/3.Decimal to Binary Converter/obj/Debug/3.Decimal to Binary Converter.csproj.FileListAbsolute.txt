@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\3.Decimal to Binary Converter\3.Decimal to Binary Converter\bin\Debug\3.Decimal to Binary Converter.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\3.Decimal to Binary Converter\3.Decimal to Binary Converter\bin\Debug\3.Decimal to Binary Converter.exe
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\3.Decimal to Binary Converter\3.Decimal to Binary Converter\bin\Debug\3.Decimal to Binary Converter.pdb
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\3.Decimal to Binary Converter\3.Decimal to Binary Converter\obj\Debug\3.Decimal to Binary Converter.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\3.Decimal to Binary Converter\3.Decimal to Binary Converter\obj\Debug\3.Decimal to Binary Converter.exe
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\3.Decimal to Binary Converter\3.Decimal to Binary Converter\obj\Debug\3.Decimal to Binary Converter.pdb

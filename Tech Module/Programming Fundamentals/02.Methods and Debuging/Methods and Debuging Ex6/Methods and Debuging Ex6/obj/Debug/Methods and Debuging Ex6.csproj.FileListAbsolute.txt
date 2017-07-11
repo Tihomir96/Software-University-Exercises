@@ -1,0 +1,5 @@
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Ex6\Methods and Debuging Ex6\bin\Debug\Methods and Debuging Ex6.exe.config
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Methods and Debuging Ex6\Methods and Debuging Ex6\bin\Debug\Methods and Debuging Ex6.exe
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Methods and Debuging Ex6\Methods and Debuging Ex6\bin\Debug\Methods and Debuging Ex6.pdb
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Methods and Debuging Ex6\Methods and Debuging Ex6\obj\Debug\Methods and Debuging Ex6.exe
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Methods and Debuging Ex6\Methods and Debuging Ex6\obj\Debug\Methods and Debuging Ex6.pdb

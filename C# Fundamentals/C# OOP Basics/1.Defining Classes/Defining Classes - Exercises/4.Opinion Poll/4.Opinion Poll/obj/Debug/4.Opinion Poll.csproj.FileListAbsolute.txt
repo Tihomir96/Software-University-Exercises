@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\4.Opinion Poll\4.Opinion Poll\bin\Debug\4.Opinion Poll.exe.config
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\4.Opinion Poll\4.Opinion Poll\bin\Debug\4.Opinion Poll.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\4.Opinion Poll\4.Opinion Poll\bin\Debug\4.Opinion Poll.pdb
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\4.Opinion Poll\4.Opinion Poll\obj\Debug\4.Opinion Poll.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\4.Opinion Poll\4.Opinion Poll\obj\Debug\4.Opinion Poll.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\4.Opinion Poll\4.Opinion Poll\obj\Debug\4.Opinion Poll.pdb

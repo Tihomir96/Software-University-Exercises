@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 11\Data Types and Variables 11\bin\Debug\Data Types and Variables 11.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 11\Data Types and Variables 11\bin\Debug\Data Types and Variables 11.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 11\Data Types and Variables 11\bin\Debug\Data Types and Variables 11.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 11\Data Types and Variables 11\obj\Debug\Data Types and Variables 11.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 11\Data Types and Variables 11\obj\Debug\Data Types and Variables 11.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 11\Data Types and Variables 11\obj\Debug\Data Types and Variables 11.pdb

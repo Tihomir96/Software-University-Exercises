@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\05.Book Library\05.Book Library\bin\Debug\05.Book Library.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\05.Book Library\05.Book Library\bin\Debug\05.Book Library.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\05.Book Library\05.Book Library\bin\Debug\05.Book Library.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\05.Book Library\05.Book Library\obj\Debug\05.Book Library.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\05.Book Library\05.Book Library\obj\Debug\05.Book Library.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\05.Book Library\05.Book Library\obj\Debug\05.Book Library.pdb

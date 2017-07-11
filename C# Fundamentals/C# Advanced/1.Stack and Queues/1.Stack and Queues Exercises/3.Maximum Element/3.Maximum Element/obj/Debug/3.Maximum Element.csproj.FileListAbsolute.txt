@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\3.Maximum Element\3.Maximum Element\bin\Debug\3.Maximum Element.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\3.Maximum Element\3.Maximum Element\bin\Debug\3.Maximum Element.exe
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\3.Maximum Element\3.Maximum Element\bin\Debug\3.Maximum Element.pdb
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\3.Maximum Element\3.Maximum Element\obj\Debug\3.Maximum Element.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\3.Maximum Element\3.Maximum Element\obj\Debug\3.Maximum Element.exe
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\3.Maximum Element\3.Maximum Element\obj\Debug\3.Maximum Element.pdb

@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\1.Unique Usernames\1.Unique Usernames\bin\Debug\1.Unique Usernames.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\1.Unique Usernames\1.Unique Usernames\bin\Debug\1.Unique Usernames.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\1.Unique Usernames\1.Unique Usernames\bin\Debug\1.Unique Usernames.pdb
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\1.Unique Usernames\1.Unique Usernames\obj\Debug\1.Unique Usernames.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\1.Unique Usernames\1.Unique Usernames\obj\Debug\1.Unique Usernames.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\1.Unique Usernames\1.Unique Usernames\obj\Debug\1.Unique Usernames.pdb

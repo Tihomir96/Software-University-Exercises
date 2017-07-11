@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\05. Magic excangeable words\05. Magic excangeable words\bin\Debug\_05.Magic_excangeable_words.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\05. Magic excangeable words\05. Magic excangeable words\obj\Debug\05. Magic excangeable words.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\05. Magic excangeable words\05. Magic excangeable words\bin\Debug\_05.Magic_excangeable_words.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\05. Magic excangeable words\05. Magic excangeable words\bin\Debug\_05.Magic_excangeable_words.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\05. Magic excangeable words\05. Magic excangeable words\obj\Debug\_05.Magic_excangeable_words.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\05. Magic excangeable words\05. Magic excangeable words\obj\Debug\_05.Magic_excangeable_words.pdb

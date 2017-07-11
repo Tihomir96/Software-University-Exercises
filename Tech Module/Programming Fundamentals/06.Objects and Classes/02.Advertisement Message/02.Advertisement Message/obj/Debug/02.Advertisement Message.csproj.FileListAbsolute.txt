@@ -1,0 +1,5 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\02.Advertisement Message\02.Advertisement Message\bin\Debug\02.Advertisement Message.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\02.Advertisement Message\02.Advertisement Message\bin\Debug\02.Advertisement Message.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\02.Advertisement Message\02.Advertisement Message\bin\Debug\02.Advertisement Message.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\02.Advertisement Message\02.Advertisement Message\obj\Debug\02.Advertisement Message.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\02.Advertisement Message\02.Advertisement Message\obj\Debug\02.Advertisement Message.pdb

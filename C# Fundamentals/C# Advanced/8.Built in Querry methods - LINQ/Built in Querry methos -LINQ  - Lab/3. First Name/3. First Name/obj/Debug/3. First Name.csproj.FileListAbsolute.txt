@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\3. First Name\3. First Name\bin\Debug\_3.First_Name.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\3. First Name\3. First Name\bin\Debug\_3.First_Name.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\3. First Name\3. First Name\bin\Debug\_3.First_Name.pdb
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\3. First Name\3. First Name\obj\Debug\3. First Name.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\3. First Name\3. First Name\obj\Debug\_3.First_Name.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\3. First Name\3. First Name\obj\Debug\_3.First_Name.pdb

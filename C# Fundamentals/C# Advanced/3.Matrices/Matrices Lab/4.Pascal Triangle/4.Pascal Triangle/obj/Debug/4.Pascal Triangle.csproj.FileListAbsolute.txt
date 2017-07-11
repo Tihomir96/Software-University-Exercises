@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\4.Pascal Triangle\4.Pascal Triangle\bin\Debug\4.Pascal Triangle.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\4.Pascal Triangle\4.Pascal Triangle\bin\Debug\4.Pascal Triangle.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\4.Pascal Triangle\4.Pascal Triangle\bin\Debug\4.Pascal Triangle.pdb
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\4.Pascal Triangle\4.Pascal Triangle\obj\Debug\4.Pascal Triangle.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\4.Pascal Triangle\4.Pascal Triangle\obj\Debug\4.Pascal Triangle.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\4.Pascal Triangle\4.Pascal Triangle\obj\Debug\4.Pascal Triangle.pdb

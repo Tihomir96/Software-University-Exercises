@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\4.Doubles Average\4.Doubles Average\bin\Debug\4.Doubles Average.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\4.Doubles Average\4.Doubles Average\bin\Debug\4.Doubles Average.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\4.Doubles Average\4.Doubles Average\bin\Debug\4.Doubles Average.pdb
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\4.Doubles Average\4.Doubles Average\obj\Debug\4.Doubles Average.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\4.Doubles Average\4.Doubles Average\obj\Debug\4.Doubles Average.pdb

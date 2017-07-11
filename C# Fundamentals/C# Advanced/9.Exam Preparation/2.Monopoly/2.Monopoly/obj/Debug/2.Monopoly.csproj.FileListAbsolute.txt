@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Monopoly\2.Monopoly\obj\Debug\2.Monopoly.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Monopoly\2.Monopoly\bin\Debug\2.Monopoly.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Monopoly\2.Monopoly\bin\Debug\2.Monopoly.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Monopoly\2.Monopoly\bin\Debug\2.Monopoly.pdb
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Monopoly\2.Monopoly\obj\Debug\2.Monopoly.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Monopoly\2.Monopoly\obj\Debug\2.Monopoly.pdb

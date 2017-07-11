@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\04.Character Multiplier\04.Character Multiplier\bin\Debug\04.Character Multiplier.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\04.Character Multiplier\04.Character Multiplier\bin\Debug\04.Character Multiplier.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\04.Character Multiplier\04.Character Multiplier\bin\Debug\04.Character Multiplier.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\04.Character Multiplier\04.Character Multiplier\obj\Debug\04.Character Multiplier.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\04.Character Multiplier\04.Character Multiplier\obj\Debug\04.Character Multiplier.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\04.Character Multiplier\04.Character Multiplier\obj\Debug\04.Character Multiplier.csprojResolveAssemblyReference.cache

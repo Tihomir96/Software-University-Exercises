@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\9.Crossfire\9.Crossfire\bin\Debug\9.Crossfire.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\9.Crossfire\9.Crossfire\bin\Debug\9.Crossfire.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\9.Crossfire\9.Crossfire\bin\Debug\9.Crossfire.pdb
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\9.Crossfire\9.Crossfire\obj\Debug\9.Crossfire.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\9.Crossfire\9.Crossfire\obj\Debug\9.Crossfire.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\9.Crossfire\9.Crossfire\obj\Debug\9.Crossfire.pdb

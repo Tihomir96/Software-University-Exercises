@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Ex3\Methods and Debuging Ex3\bin\Debug\Methods and Debuging Ex3.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Ex3\Methods and Debuging Ex3\bin\Debug\Methods and Debuging Ex3.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Ex3\Methods and Debuging Ex3\bin\Debug\Methods and Debuging Ex3.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Ex3\Methods and Debuging Ex3\obj\Debug\Methods and Debuging Ex3.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Ex3\Methods and Debuging Ex3\obj\Debug\Methods and Debuging Ex3.pdb
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Methods and Debuging Ex3\Methods and Debuging Ex3\obj\Debug\Methods and Debuging Ex3.csprojResolveAssemblyReference.cache

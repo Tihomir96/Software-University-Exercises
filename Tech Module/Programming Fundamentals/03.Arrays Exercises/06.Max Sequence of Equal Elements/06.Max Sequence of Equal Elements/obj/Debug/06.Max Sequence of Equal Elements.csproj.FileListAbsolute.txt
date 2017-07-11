@@ -1,0 +1,9 @@
+c:\users\violeta\documents\visual studio 2015\Projects\06.Max Sequence of Equal Elements\06.Max Sequence of Equal Elements\bin\Debug\06.Max Sequence of Equal Elements.exe.config
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\06.Max Sequence of Equal Elements\06.Max Sequence of Equal Elements\bin\Debug\06.Max Sequence of Equal Elements.exe
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\06.Max Sequence of Equal Elements\06.Max Sequence of Equal Elements\bin\Debug\06.Max Sequence of Equal Elements.pdb
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\06.Max Sequence of Equal Elements\06.Max Sequence of Equal Elements\obj\Debug\06.Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\06.Max Sequence of Equal Elements\06.Max Sequence of Equal Elements\obj\Debug\06.Max Sequence of Equal Elements.exe
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\06.Max Sequence of Equal Elements\06.Max Sequence of Equal Elements\obj\Debug\06.Max Sequence of Equal Elements.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\03.Arrays Exercises\06.Max Sequence of Equal Elements\06.Max Sequence of Equal Elements\bin\Debug\06.Max Sequence of Equal Elements.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\03.Arrays Exercises\06.Max Sequence of Equal Elements\06.Max Sequence of Equal Elements\obj\Debug\06.Max Sequence of Equal Elements.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\03.Arrays Exercises\06.Max Sequence of Equal Elements\06.Max Sequence of Equal Elements\obj\Debug\06.Max Sequence of Equal Elements.pdb

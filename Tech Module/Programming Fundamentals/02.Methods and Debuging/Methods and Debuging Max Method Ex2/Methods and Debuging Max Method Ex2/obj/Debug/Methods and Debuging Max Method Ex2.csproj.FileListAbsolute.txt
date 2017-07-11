@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Max Method Ex2\Methods and Debuging Max Method Ex2\bin\Debug\Methods and Debuging Max Method Ex2.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Max Method Ex2\Methods and Debuging Max Method Ex2\bin\Debug\Methods and Debuging Max Method Ex2.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Max Method Ex2\Methods and Debuging Max Method Ex2\bin\Debug\Methods and Debuging Max Method Ex2.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Max Method Ex2\Methods and Debuging Max Method Ex2\obj\Debug\Methods and Debuging Max Method Ex2.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Max Method Ex2\Methods and Debuging Max Method Ex2\obj\Debug\Methods and Debuging Max Method Ex2.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Max Method Ex2\Methods and Debuging Max Method Ex2\obj\Debug\Methods and Debuging Max Method Ex2.pdb

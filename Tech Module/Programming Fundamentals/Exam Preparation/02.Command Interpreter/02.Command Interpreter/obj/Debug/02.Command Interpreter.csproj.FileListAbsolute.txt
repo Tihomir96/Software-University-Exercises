@@ -1,0 +1,9 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Command Interpreter\02.Command Interpreter\bin\Debug\02.Command Interpreter.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Command Interpreter\02.Command Interpreter\obj\Debug\02.Command Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Command Interpreter\02.Command Interpreter\bin\Debug\02.Command Interpreter.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Command Interpreter\02.Command Interpreter\bin\Debug\02.Command Interpreter.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Command Interpreter\02.Command Interpreter\obj\Debug\02.Command Interpreter.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Command Interpreter\02.Command Interpreter\obj\Debug\02.Command Interpreter.pdb
+D:\Software University\Tech Module\Programming Fundamentals\Exam Preparation\02.Command Interpreter\02.Command Interpreter\bin\Debug\02.Command Interpreter.exe.config
+D:\Software University\Tech Module\Programming Fundamentals\Exam Preparation\02.Command Interpreter\02.Command Interpreter\obj\Debug\02.Command Interpreter.exe
+D:\Software University\Tech Module\Programming Fundamentals\Exam Preparation\02.Command Interpreter\02.Command Interpreter\obj\Debug\02.Command Interpreter.pdb

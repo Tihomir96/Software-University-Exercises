@@ -1,0 +1,5 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\04.Fix Emails\04.Fix Emails\bin\Debug\04.Fix Emails.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\04.Fix Emails\04.Fix Emails\bin\Debug\04.Fix Emails.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\04.Fix Emails\04.Fix Emails\bin\Debug\04.Fix Emails.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\04.Fix Emails\04.Fix Emails\obj\Debug\04.Fix Emails.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\04.Fix Emails\04.Fix Emails\obj\Debug\04.Fix Emails.pdb

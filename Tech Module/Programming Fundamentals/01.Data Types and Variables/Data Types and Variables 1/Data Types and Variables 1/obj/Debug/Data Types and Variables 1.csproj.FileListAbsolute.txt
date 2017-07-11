@@ -1,0 +1,5 @@
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 1\Data Types and Variables 1\bin\Debug\Data Types and Variables 1.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 1\Data Types and Variables 1\bin\Debug\Data Types and Variables 1.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 1\Data Types and Variables 1\bin\Debug\Data Types and Variables 1.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 1\Data Types and Variables 1\obj\Debug\Data Types and Variables 1.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 1\Data Types and Variables 1\obj\Debug\Data Types and Variables 1.pdb

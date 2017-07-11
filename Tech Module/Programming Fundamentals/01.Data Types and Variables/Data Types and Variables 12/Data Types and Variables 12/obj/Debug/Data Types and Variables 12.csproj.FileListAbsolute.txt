@@ -1,0 +1,5 @@
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 12\Data Types and Variables 12\bin\Debug\Data Types and Variables 12.exe.config
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Data Types and Variables 12\Data Types and Variables 12\bin\Debug\Data Types and Variables 12.exe
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Data Types and Variables 12\Data Types and Variables 12\bin\Debug\Data Types and Variables 12.pdb
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Data Types and Variables 12\Data Types and Variables 12\obj\Debug\Data Types and Variables 12.exe
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Data Types and Variables 12\Data Types and Variables 12\obj\Debug\Data Types and Variables 12.pdb

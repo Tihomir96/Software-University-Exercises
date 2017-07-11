@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\5.Extract Emails\5.Extract Emails\bin\Debug\5.Extract Emails.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\5.Extract Emails\5.Extract Emails\bin\Debug\5.Extract Emails.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\5.Extract Emails\5.Extract Emails\bin\Debug\5.Extract Emails.pdb
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\5.Extract Emails\5.Extract Emails\obj\Debug\5.Extract Emails.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\5.Extract Emails\5.Extract Emails\obj\Debug\5.Extract Emails.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\5.Extract Emails\5.Extract Emails\obj\Debug\5.Extract Emails.pdb

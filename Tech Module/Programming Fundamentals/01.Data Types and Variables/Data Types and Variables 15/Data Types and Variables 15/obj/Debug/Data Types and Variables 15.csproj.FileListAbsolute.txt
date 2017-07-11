@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 15\Data Types and Variables 15\bin\Debug\Data Types and Variables 15.exe.config
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Data Types and Variables 15\Data Types and Variables 15\bin\Debug\Data Types and Variables 15.exe
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Data Types and Variables 15\Data Types and Variables 15\bin\Debug\Data Types and Variables 15.pdb
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Data Types and Variables 15\Data Types and Variables 15\obj\Debug\Data Types and Variables 15.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Data Types and Variables 15\Data Types and Variables 15\obj\Debug\Data Types and Variables 15.exe
+C:\Users\Violeta\Documents\Visual Studio 2015\Projects\Data Types and Variables 15\Data Types and Variables 15\obj\Debug\Data Types and Variables 15.pdb

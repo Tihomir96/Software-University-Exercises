@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\09.Legendary Farming\09.Legendary Farming\bin\Debug\09.Legendary Farming.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\09.Legendary Farming\09.Legendary Farming\bin\Debug\09.Legendary Farming.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\09.Legendary Farming\09.Legendary Farming\bin\Debug\09.Legendary Farming.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\09.Legendary Farming\09.Legendary Farming\obj\Debug\09.Legendary Farming.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\09.Legendary Farming\09.Legendary Farming\obj\Debug\09.Legendary Farming.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\09.Legendary Farming\09.Legendary Farming\obj\Debug\09.Legendary Farming.pdb

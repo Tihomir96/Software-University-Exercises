@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\3.Validation\3.Validation\bin\Debug\3.Validation.exe.config
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\3.Validation\3.Validation\bin\Debug\3.Validation.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\3.Validation\3.Validation\bin\Debug\3.Validation.pdb
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\3.Validation\3.Validation\obj\Debug\3.Validation.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\3.Validation\3.Validation\obj\Debug\3.Validation.pdb

@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Array Modifier\02.Array Modifier\bin\Debug\02.Array Modifier.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Array Modifier\02.Array Modifier\bin\Debug\02.Array Modifier.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Array Modifier\02.Array Modifier\bin\Debug\02.Array Modifier.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Array Modifier\02.Array Modifier\obj\Debug\02.Array Modifier.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Array Modifier\02.Array Modifier\obj\Debug\02.Array Modifier.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Array Modifier\02.Array Modifier\obj\Debug\02.Array Modifier.pdb

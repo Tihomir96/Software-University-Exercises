@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\4.First and Reserve Team\4.First and Reserve Team\bin\Debug\4.First and Reserve Team.exe.config
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\4.First and Reserve Team\4.First and Reserve Team\bin\Debug\4.First and Reserve Team.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\4.First and Reserve Team\4.First and Reserve Team\bin\Debug\4.First and Reserve Team.pdb
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\4.First and Reserve Team\4.First and Reserve Team\obj\Debug\4.First and Reserve Team.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\4.First and Reserve Team\4.First and Reserve Team\obj\Debug\4.First and Reserve Team.pdb

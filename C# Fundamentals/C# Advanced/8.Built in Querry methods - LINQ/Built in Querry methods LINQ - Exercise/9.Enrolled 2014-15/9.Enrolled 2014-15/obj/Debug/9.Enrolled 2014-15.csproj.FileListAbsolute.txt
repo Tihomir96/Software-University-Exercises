@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\9.Enrolled 2014-15\9.Enrolled 2014-15\bin\Debug\9.Enrolled 2014-15.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\9.Enrolled 2014-15\9.Enrolled 2014-15\bin\Debug\9.Enrolled 2014-15.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\9.Enrolled 2014-15\9.Enrolled 2014-15\bin\Debug\9.Enrolled 2014-15.pdb
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\9.Enrolled 2014-15\9.Enrolled 2014-15\obj\Debug\9.Enrolled 2014-15.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\9.Enrolled 2014-15\9.Enrolled 2014-15\obj\Debug\9.Enrolled 2014-15.pdb

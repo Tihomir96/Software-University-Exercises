@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\6.Find and Sum Int\6.Find and Sum Int\bin\Debug\6.Find and Sum Int.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\6.Find and Sum Int\6.Find and Sum Int\bin\Debug\6.Find and Sum Int.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\6.Find and Sum Int\6.Find and Sum Int\bin\Debug\6.Find and Sum Int.pdb
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\6.Find and Sum Int\6.Find and Sum Int\obj\Debug\6.Find and Sum Int.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\6.Find and Sum Int\6.Find and Sum Int\obj\Debug\6.Find and Sum Int.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\6.Find and Sum Int\6.Find and Sum Int\obj\Debug\6.Find and Sum Int.pdb

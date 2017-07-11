@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\6.Filter by phone\6.Filter by phone\bin\Debug\6.Filter by phone.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\6.Filter by phone\6.Filter by phone\bin\Debug\6.Filter by phone.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\6.Filter by phone\6.Filter by phone\bin\Debug\6.Filter by phone.pdb
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\6.Filter by phone\6.Filter by phone\obj\Debug\6.Filter by phone.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\6.Filter by phone\6.Filter by phone\obj\Debug\6.Filter by phone.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\6.Filter by phone\6.Filter by phone\obj\Debug\6.Filter by phone.pdb

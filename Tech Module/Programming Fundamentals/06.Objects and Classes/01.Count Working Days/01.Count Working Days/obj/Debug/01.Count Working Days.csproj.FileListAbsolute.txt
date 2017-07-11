@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\01.Count Working Days\01.Count Working Days\bin\Debug\01.Count Working Days.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\01.Count Working Days\01.Count Working Days\bin\Debug\01.Count Working Days.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\01.Count Working Days\01.Count Working Days\bin\Debug\01.Count Working Days.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\01.Count Working Days\01.Count Working Days\obj\Debug\01.Count Working Days.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\01.Count Working Days\01.Count Working Days\obj\Debug\01.Count Working Days.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\01.Count Working Days\01.Count Working Days\obj\Debug\01.Count Working Days.pdb

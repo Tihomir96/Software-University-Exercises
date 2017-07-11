@@ -1,0 +1,5 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\testTEST\testTEST\bin\Debug\testTEST.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\testTEST\testTEST\bin\Debug\testTEST.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\testTEST\testTEST\bin\Debug\testTEST.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\testTEST\testTEST\obj\Debug\testTEST.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\testTEST\testTEST\obj\Debug\testTEST.pdb

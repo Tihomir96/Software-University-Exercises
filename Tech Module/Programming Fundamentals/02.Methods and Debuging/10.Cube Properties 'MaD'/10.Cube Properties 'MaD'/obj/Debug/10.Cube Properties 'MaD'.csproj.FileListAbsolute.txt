@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\10.Cube Properties 'MaD'\10.Cube Properties 'MaD'\bin\Debug\10.Cube Properties 'MaD'.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\10.Cube Properties 'MaD'\10.Cube Properties 'MaD'\bin\Debug\10.Cube Properties 'MaD'.exe
+c:\users\violeta\documents\visual studio 2015\Projects\10.Cube Properties 'MaD'\10.Cube Properties 'MaD'\bin\Debug\10.Cube Properties 'MaD'.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\10.Cube Properties 'MaD'\10.Cube Properties 'MaD'\obj\Debug\10.Cube Properties 'MaD'.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\10.Cube Properties 'MaD'\10.Cube Properties 'MaD'\obj\Debug\10.Cube Properties 'MaD'.exe
+c:\users\violeta\documents\visual studio 2015\Projects\10.Cube Properties 'MaD'\10.Cube Properties 'MaD'\obj\Debug\10.Cube Properties 'MaD'.pdb

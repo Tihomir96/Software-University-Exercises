@@ -1,0 +1,6 @@
+D:\Tech Module\Programming Fundamentals\Exercises\Default Values\Default Values\bin\Debug\Default Values.exe.config
+D:\Tech Module\Programming Fundamentals\Exercises\Default Values\Default Values\bin\Debug\Default Values.exe
+D:\Tech Module\Programming Fundamentals\Exercises\Default Values\Default Values\bin\Debug\Default Values.pdb
+D:\Tech Module\Programming Fundamentals\Exercises\Default Values\Default Values\obj\Debug\Default Values.csprojResolveAssemblyReference.cache
+D:\Tech Module\Programming Fundamentals\Exercises\Default Values\Default Values\obj\Debug\Default Values.exe
+D:\Tech Module\Programming Fundamentals\Exercises\Default Values\Default Values\obj\Debug\Default Values.pdb

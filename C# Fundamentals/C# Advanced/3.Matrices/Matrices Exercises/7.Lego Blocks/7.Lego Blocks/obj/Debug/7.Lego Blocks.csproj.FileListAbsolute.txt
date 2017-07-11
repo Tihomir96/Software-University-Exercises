@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\7.Lego Blocks\7.Lego Blocks\bin\Debug\7.Lego Blocks.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\7.Lego Blocks\7.Lego Blocks\bin\Debug\7.Lego Blocks.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\7.Lego Blocks\7.Lego Blocks\bin\Debug\7.Lego Blocks.pdb
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\7.Lego Blocks\7.Lego Blocks\obj\Debug\7.Lego Blocks.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\7.Lego Blocks\7.Lego Blocks\obj\Debug\7.Lego Blocks.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\7.Lego Blocks\7.Lego Blocks\obj\Debug\7.Lego Blocks.pdb

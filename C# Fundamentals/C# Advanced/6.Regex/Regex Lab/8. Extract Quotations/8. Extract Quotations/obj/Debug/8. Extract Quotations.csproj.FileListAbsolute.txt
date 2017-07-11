@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\8. Extract Quotations\8. Extract Quotations\bin\Debug\_8.Extract_Quotations.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\8. Extract Quotations\8. Extract Quotations\bin\Debug\_8.Extract_Quotations.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\8. Extract Quotations\8. Extract Quotations\bin\Debug\_8.Extract_Quotations.pdb
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\8. Extract Quotations\8. Extract Quotations\obj\Debug\8. Extract Quotations.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\8. Extract Quotations\8. Extract Quotations\obj\Debug\_8.Extract_Quotations.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\8. Extract Quotations\8. Extract Quotations\obj\Debug\_8.Extract_Quotations.pdb

@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\2.Parse URL\2.Parse URL\bin\Debug\2.Parse URL.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\2.Parse URL\2.Parse URL\bin\Debug\2.Parse URL.exe
+D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\2.Parse URL\2.Parse URL\bin\Debug\2.Parse URL.pdb
+D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\2.Parse URL\2.Parse URL\obj\Debug\2.Parse URL.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\2.Parse URL\2.Parse URL\obj\Debug\2.Parse URL.exe
+D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\2.Parse URL\2.Parse URL\obj\Debug\2.Parse URL.pdb

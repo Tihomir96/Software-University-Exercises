@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\08.Logs Aggregator\08.Logs Aggregator\bin\Debug\08.Logs Aggregator.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\08.Logs Aggregator\08.Logs Aggregator\bin\Debug\08.Logs Aggregator.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\08.Logs Aggregator\08.Logs Aggregator\bin\Debug\08.Logs Aggregator.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\08.Logs Aggregator\08.Logs Aggregator\obj\Debug\08.Logs Aggregator.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\08.Logs Aggregator\08.Logs Aggregator\obj\Debug\08.Logs Aggregator.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\08.Logs Aggregator\08.Logs Aggregator\obj\Debug\08.Logs Aggregator.pdb

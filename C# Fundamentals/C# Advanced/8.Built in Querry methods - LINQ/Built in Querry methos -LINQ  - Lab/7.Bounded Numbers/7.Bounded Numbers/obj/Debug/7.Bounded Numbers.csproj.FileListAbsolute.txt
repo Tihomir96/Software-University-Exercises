@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\7.Bounded Numbers\7.Bounded Numbers\bin\Debug\7.Bounded Numbers.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\7.Bounded Numbers\7.Bounded Numbers\bin\Debug\7.Bounded Numbers.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\7.Bounded Numbers\7.Bounded Numbers\bin\Debug\7.Bounded Numbers.pdb
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\7.Bounded Numbers\7.Bounded Numbers\obj\Debug\7.Bounded Numbers.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\7.Bounded Numbers\7.Bounded Numbers\obj\Debug\7.Bounded Numbers.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\7.Bounded Numbers\7.Bounded Numbers\obj\Debug\7.Bounded Numbers.pdb

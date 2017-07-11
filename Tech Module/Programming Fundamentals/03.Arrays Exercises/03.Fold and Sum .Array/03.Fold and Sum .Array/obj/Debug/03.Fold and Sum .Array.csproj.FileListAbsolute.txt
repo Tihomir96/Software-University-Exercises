@@ -1,0 +1,9 @@
+c:\users\violeta\documents\visual studio 2015\Projects\03.Fold and Sum .Array\03.Fold and Sum .Array\bin\Debug\_03.Fold_and_Sum.Array.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\03.Fold and Sum .Array\03.Fold and Sum .Array\obj\Debug\_03.Fold_and_Sum.Array.exe
+c:\users\violeta\documents\visual studio 2015\Projects\03.Fold and Sum .Array\03.Fold and Sum .Array\obj\Debug\_03.Fold_and_Sum.Array.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\03.Fold and Sum .Array\03.Fold and Sum .Array\bin\Debug\_03.Fold_and_Sum.Array.exe
+c:\users\violeta\documents\visual studio 2015\Projects\03.Fold and Sum .Array\03.Fold and Sum .Array\bin\Debug\_03.Fold_and_Sum.Array.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\03.Fold and Sum .Array\03.Fold and Sum .Array\obj\Debug\03.Fold and Sum .Array.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\03.Arrays Exercises\03.Fold and Sum .Array\03.Fold and Sum .Array\bin\Debug\_03.Fold_and_Sum.Array.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\03.Arrays Exercises\03.Fold and Sum .Array\03.Fold and Sum .Array\obj\Debug\_03.Fold_and_Sum.Array.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\03.Arrays Exercises\03.Fold and Sum .Array\03.Fold and Sum .Array\obj\Debug\_03.Fold_and_Sum.Array.pdb

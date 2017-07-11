@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\6.Valid Usernames\6.Valid Usernames\bin\Debug\6.Valid Usernames.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\6.Valid Usernames\6.Valid Usernames\bin\Debug\6.Valid Usernames.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\6.Valid Usernames\6.Valid Usernames\bin\Debug\6.Valid Usernames.pdb
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\6.Valid Usernames\6.Valid Usernames\obj\Debug\6.Valid Usernames.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\6.Valid Usernames\6.Valid Usernames\obj\Debug\6.Valid Usernames.pdb

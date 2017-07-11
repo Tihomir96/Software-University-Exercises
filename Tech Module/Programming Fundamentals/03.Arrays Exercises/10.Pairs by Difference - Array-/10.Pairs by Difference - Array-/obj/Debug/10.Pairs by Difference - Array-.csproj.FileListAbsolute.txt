@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\10.Pairs by Difference - Array-\10.Pairs by Difference - Array-\bin\Debug\10.Pairs by Difference - Array-.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\10.Pairs by Difference - Array-\10.Pairs by Difference - Array-\bin\Debug\10.Pairs by Difference - Array-.exe
+c:\users\violeta\documents\visual studio 2015\Projects\10.Pairs by Difference - Array-\10.Pairs by Difference - Array-\bin\Debug\10.Pairs by Difference - Array-.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\10.Pairs by Difference - Array-\10.Pairs by Difference - Array-\obj\Debug\10.Pairs by Difference - Array-.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\10.Pairs by Difference - Array-\10.Pairs by Difference - Array-\obj\Debug\10.Pairs by Difference - Array-.exe
+c:\users\violeta\documents\visual studio 2015\Projects\10.Pairs by Difference - Array-\10.Pairs by Difference - Array-\obj\Debug\10.Pairs by Difference - Array-.pdb

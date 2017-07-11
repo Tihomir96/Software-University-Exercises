@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\05.Compare Char Arrays .Arrays\05.Compare Char Arrays .Arrays\bin\Debug\_05.Compare_Char_Arrays.Arrays.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\05.Compare Char Arrays .Arrays\05.Compare Char Arrays .Arrays\obj\Debug\_05.Compare_Char_Arrays.Arrays.exe
+c:\users\violeta\documents\visual studio 2015\Projects\05.Compare Char Arrays .Arrays\05.Compare Char Arrays .Arrays\obj\Debug\_05.Compare_Char_Arrays.Arrays.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\05.Compare Char Arrays .Arrays\05.Compare Char Arrays .Arrays\obj\Debug\05.Compare Char Arrays .Arrays.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\05.Compare Char Arrays .Arrays\05.Compare Char Arrays .Arrays\bin\Debug\_05.Compare_Char_Arrays.Arrays.exe
+c:\users\violeta\documents\visual studio 2015\Projects\05.Compare Char Arrays .Arrays\05.Compare Char Arrays .Arrays\bin\Debug\_05.Compare_Char_Arrays.Arrays.pdb

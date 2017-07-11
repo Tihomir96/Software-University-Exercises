@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam\04.Hornets Armada\04.Hornets Armada\bin\Debug\04.Hornets Armada.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam\04.Hornets Armada\04.Hornets Armada\bin\Debug\04.Hornets Armada.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam\04.Hornets Armada\04.Hornets Armada\bin\Debug\04.Hornets Armada.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam\04.Hornets Armada\04.Hornets Armada\obj\Debug\04.Hornets Armada.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam\04.Hornets Armada\04.Hornets Armada\obj\Debug\04.Hornets Armada.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam\04.Hornets Armada\04.Hornets Armada\obj\Debug\04.Hornets Armada.pdb

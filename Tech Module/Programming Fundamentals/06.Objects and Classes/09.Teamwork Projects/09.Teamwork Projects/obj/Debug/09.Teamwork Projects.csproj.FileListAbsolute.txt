@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\09.Teamwork Projects\09.Teamwork Projects\bin\Debug\09.Teamwork Projects.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\09.Teamwork Projects\09.Teamwork Projects\bin\Debug\09.Teamwork Projects.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\09.Teamwork Projects\09.Teamwork Projects\bin\Debug\09.Teamwork Projects.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\09.Teamwork Projects\09.Teamwork Projects\obj\Debug\09.Teamwork Projects.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\09.Teamwork Projects\09.Teamwork Projects\obj\Debug\09.Teamwork Projects.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\09.Teamwork Projects\09.Teamwork Projects\obj\Debug\09.Teamwork Projects.pdb

@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\09.RegEx\01.Extract Emails\01.Extract Emails\bin\Debug\01.Extract Emails.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\09.RegEx\01.Extract Emails\01.Extract Emails\bin\Debug\01.Extract Emails.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\09.RegEx\01.Extract Emails\01.Extract Emails\bin\Debug\01.Extract Emails.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\09.RegEx\01.Extract Emails\01.Extract Emails\obj\Debug\01.Extract Emails.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\09.RegEx\01.Extract Emails\01.Extract Emails\obj\Debug\01.Extract Emails.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\09.RegEx\01.Extract Emails\01.Extract Emails\obj\Debug\01.Extract Emails.pdb

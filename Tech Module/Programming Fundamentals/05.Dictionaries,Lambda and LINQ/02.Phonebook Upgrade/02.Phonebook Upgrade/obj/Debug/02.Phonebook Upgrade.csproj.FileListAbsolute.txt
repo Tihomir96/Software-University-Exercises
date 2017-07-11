@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\02.Phonebook Upgrade\02.Phonebook Upgrade\bin\Debug\02.Phonebook Upgrade.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\02.Phonebook Upgrade\02.Phonebook Upgrade\bin\Debug\02.Phonebook Upgrade.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\02.Phonebook Upgrade\02.Phonebook Upgrade\bin\Debug\02.Phonebook Upgrade.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\02.Phonebook Upgrade\02.Phonebook Upgrade\obj\Debug\02.Phonebook Upgrade.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\02.Phonebook Upgrade\02.Phonebook Upgrade\obj\Debug\02.Phonebook Upgrade.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\02.Phonebook Upgrade\02.Phonebook Upgrade\obj\Debug\02.Phonebook Upgrade.pdb

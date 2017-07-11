@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\1.Sort Even numbers\1.Sort Even numbers\bin\Debug\1.Sort Even numbers.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\1.Sort Even numbers\1.Sort Even numbers\bin\Debug\1.Sort Even numbers.exe
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\1.Sort Even numbers\1.Sort Even numbers\bin\Debug\1.Sort Even numbers.pdb
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\1.Sort Even numbers\1.Sort Even numbers\obj\Debug\1.Sort Even numbers.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\1.Sort Even numbers\1.Sort Even numbers\obj\Debug\1.Sort Even numbers.exe
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\1.Sort Even numbers\1.Sort Even numbers\obj\Debug\1.Sort Even numbers.pdb

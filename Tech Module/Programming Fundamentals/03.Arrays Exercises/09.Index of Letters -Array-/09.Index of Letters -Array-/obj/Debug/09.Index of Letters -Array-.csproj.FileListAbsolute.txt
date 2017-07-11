@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\09.Index of Letters -Array-\09.Index of Letters -Array-\bin\Debug\09.Index of Letters -Array-.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\09.Index of Letters -Array-\09.Index of Letters -Array-\bin\Debug\09.Index of Letters -Array-.exe
+c:\users\violeta\documents\visual studio 2015\Projects\09.Index of Letters -Array-\09.Index of Letters -Array-\bin\Debug\09.Index of Letters -Array-.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\09.Index of Letters -Array-\09.Index of Letters -Array-\obj\Debug\09.Index of Letters -Array-.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\09.Index of Letters -Array-\09.Index of Letters -Array-\obj\Debug\09.Index of Letters -Array-.exe
+c:\users\violeta\documents\visual studio 2015\Projects\09.Index of Letters -Array-\09.Index of Letters -Array-\obj\Debug\09.Index of Letters -Array-.pdb

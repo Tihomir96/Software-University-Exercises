@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\07.Population Counter\07.Population Counter\bin\Debug\07.Population Counter.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\07.Population Counter\07.Population Counter\bin\Debug\07.Population Counter.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\07.Population Counter\07.Population Counter\bin\Debug\07.Population Counter.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\07.Population Counter\07.Population Counter\obj\Debug\07.Population Counter.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\07.Population Counter\07.Population Counter\obj\Debug\07.Population Counter.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\07.Population Counter\07.Population Counter\obj\Debug\07.Population Counter.pdb

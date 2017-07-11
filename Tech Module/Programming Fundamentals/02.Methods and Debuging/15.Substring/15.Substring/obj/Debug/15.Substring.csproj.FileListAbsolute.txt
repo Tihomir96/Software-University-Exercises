@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\15.Substring\15.Substring\bin\Debug\15.Substring.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\15.Substring\15.Substring\bin\Debug\15.Substring.exe
+c:\users\violeta\documents\visual studio 2015\Projects\15.Substring\15.Substring\bin\Debug\15.Substring.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\15.Substring\15.Substring\obj\Debug\15.Substring.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\15.Substring\15.Substring\obj\Debug\15.Substring.exe
+c:\users\violeta\documents\visual studio 2015\Projects\15.Substring\15.Substring\obj\Debug\15.Substring.pdb

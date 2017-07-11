@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\2.Diagonal Difference\2.Diagonal Difference\bin\Debug\2.Diagonal Difference.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\2.Diagonal Difference\2.Diagonal Difference\bin\Debug\2.Diagonal Difference.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\2.Diagonal Difference\2.Diagonal Difference\bin\Debug\2.Diagonal Difference.pdb
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\2.Diagonal Difference\2.Diagonal Difference\obj\Debug\2.Diagonal Difference.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\2.Diagonal Difference\2.Diagonal Difference\obj\Debug\2.Diagonal Difference.pdb
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\2.Diagonal Difference\2.Diagonal Difference\obj\Debug\2.Diagonal Difference.csprojResolveAssemblyReference.cache

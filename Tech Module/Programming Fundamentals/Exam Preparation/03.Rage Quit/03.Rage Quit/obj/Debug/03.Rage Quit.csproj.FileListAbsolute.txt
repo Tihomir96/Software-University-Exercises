@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Rage Quit\03.Rage Quit\bin\Debug\03.Rage Quit.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Rage Quit\03.Rage Quit\bin\Debug\03.Rage Quit.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Rage Quit\03.Rage Quit\bin\Debug\03.Rage Quit.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Rage Quit\03.Rage Quit\obj\Debug\03.Rage Quit.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Rage Quit\03.Rage Quit\obj\Debug\03.Rage Quit.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Rage Quit\03.Rage Quit\obj\Debug\03.Rage Quit.pdb

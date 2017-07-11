@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\1.Take two\1.Take two\bin\Debug\1.Take two.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\1.Take two\1.Take two\bin\Debug\1.Take two.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\1.Take two\1.Take two\bin\Debug\1.Take two.pdb
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\1.Take two\1.Take two\obj\Debug\1.Take two.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\1.Take two\1.Take two\obj\Debug\1.Take two.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\1.Take two\1.Take two\obj\Debug\1.Take two.pdb

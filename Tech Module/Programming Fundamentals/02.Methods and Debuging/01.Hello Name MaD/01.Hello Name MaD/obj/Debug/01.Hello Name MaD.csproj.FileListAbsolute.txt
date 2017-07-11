@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\01.Hello Name MaD\01.Hello Name MaD\bin\Debug\01.Hello Name MaD.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\01.Hello Name MaD\01.Hello Name MaD\bin\Debug\01.Hello Name MaD.exe
+c:\users\violeta\documents\visual studio 2015\Projects\01.Hello Name MaD\01.Hello Name MaD\bin\Debug\01.Hello Name MaD.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\01.Hello Name MaD\01.Hello Name MaD\obj\Debug\01.Hello Name MaD.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\01.Hello Name MaD\01.Hello Name MaD\obj\Debug\01.Hello Name MaD.exe
+c:\users\violeta\documents\visual studio 2015\Projects\01.Hello Name MaD\01.Hello Name MaD\obj\Debug\01.Hello Name MaD.pdb

@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\6.Target Practice\6.Target Practice\bin\Debug\6.Target Practice.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\6.Target Practice\6.Target Practice\bin\Debug\6.Target Practice.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\6.Target Practice\6.Target Practice\bin\Debug\6.Target Practice.pdb
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\6.Target Practice\6.Target Practice\obj\Debug\6.Target Practice.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\6.Target Practice\6.Target Practice\obj\Debug\6.Target Practice.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\6.Target Practice\6.Target Practice\obj\Debug\6.Target Practice.pdb

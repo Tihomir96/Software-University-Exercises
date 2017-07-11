@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\1.Parking Lot\1.Parking Lot\bin\Debug\1.Parking Lot.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\1.Parking Lot\1.Parking Lot\bin\Debug\1.Parking Lot.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\1.Parking Lot\1.Parking Lot\bin\Debug\1.Parking Lot.pdb
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\1.Parking Lot\1.Parking Lot\obj\Debug\1.Parking Lot.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\1.Parking Lot\1.Parking Lot\obj\Debug\1.Parking Lot.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\1.Parking Lot\1.Parking Lot\obj\Debug\1.Parking Lot.pdb

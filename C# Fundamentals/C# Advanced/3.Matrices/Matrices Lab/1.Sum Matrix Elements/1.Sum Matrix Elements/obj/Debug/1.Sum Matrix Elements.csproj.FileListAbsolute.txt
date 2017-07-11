@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\1.Sum Matrix Elements\1.Sum Matrix Elements\bin\Debug\1.Sum Matrix Elements.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\1.Sum Matrix Elements\1.Sum Matrix Elements\bin\Debug\1.Sum Matrix Elements.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\1.Sum Matrix Elements\1.Sum Matrix Elements\bin\Debug\1.Sum Matrix Elements.pdb
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\1.Sum Matrix Elements\1.Sum Matrix Elements\obj\Debug\1.Sum Matrix Elements.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\1.Sum Matrix Elements\1.Sum Matrix Elements\obj\Debug\1.Sum Matrix Elements.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\1.Sum Matrix Elements\1.Sum Matrix Elements\obj\Debug\1.Sum Matrix Elements.pdb

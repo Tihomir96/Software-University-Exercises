@@ -1,0 +1,9 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\08.Mentor Group\08.Mentor Group\bin\Debug\08.Mentor Group.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\08.Mentor Group\08.Mentor Group\bin\Debug\08.Mentor Group.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\08.Mentor Group\08.Mentor Group\bin\Debug\08.Mentor Group.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\08.Mentor Group\08.Mentor Group\obj\Debug\08.Mentor Group.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\08.Mentor Group\08.Mentor Group\obj\Debug\08.Mentor Group.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\08.Mentor Group\08.Mentor Group\obj\Debug\08.Mentor Group.pdb
+D:\Software University\Tech Module\Programming Fundamentals\06.Objects and Classes\08.Mentor Group\08.Mentor Group\bin\Debug\08.Mentor Group.exe.config
+D:\Software University\Tech Module\Programming Fundamentals\06.Objects and Classes\08.Mentor Group\08.Mentor Group\obj\Debug\08.Mentor Group.exe
+D:\Software University\Tech Module\Programming Fundamentals\06.Objects and Classes\08.Mentor Group\08.Mentor Group\obj\Debug\08.Mentor Group.pdb

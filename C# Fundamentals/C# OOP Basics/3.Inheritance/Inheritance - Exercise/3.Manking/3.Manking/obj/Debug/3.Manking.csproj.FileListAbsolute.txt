@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\3.Manking\3.Manking\bin\Debug\3.Manking.exe.config
+D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\3.Manking\3.Manking\bin\Debug\3.Manking.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\3.Manking\3.Manking\bin\Debug\3.Manking.pdb
+D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\3.Manking\3.Manking\obj\Debug\3.Manking.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\3.Manking\3.Manking\obj\Debug\3.Manking.pdb
+D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\3.Manking\3.Manking\obj\Debug\3.Manking.csprojResolveAssemblyReference.cache

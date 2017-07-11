@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\4.Academy Graduation\4.Academy Graduation\bin\Debug\4.Academy Graduation.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\4.Academy Graduation\4.Academy Graduation\bin\Debug\4.Academy Graduation.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\4.Academy Graduation\4.Academy Graduation\bin\Debug\4.Academy Graduation.pdb
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\4.Academy Graduation\4.Academy Graduation\obj\Debug\4.Academy Graduation.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\4.Academy Graduation\4.Academy Graduation\obj\Debug\4.Academy Graduation.pdb

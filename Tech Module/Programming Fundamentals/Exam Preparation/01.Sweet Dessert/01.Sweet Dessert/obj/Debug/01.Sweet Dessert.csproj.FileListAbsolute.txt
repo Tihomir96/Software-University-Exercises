@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Sweet Dessert\01.Sweet Dessert\bin\Debug\01.Sweet Dessert.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Sweet Dessert\01.Sweet Dessert\bin\Debug\01.Sweet Dessert.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Sweet Dessert\01.Sweet Dessert\bin\Debug\01.Sweet Dessert.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Sweet Dessert\01.Sweet Dessert\obj\Debug\01.Sweet Dessert.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Sweet Dessert\01.Sweet Dessert\obj\Debug\01.Sweet Dessert.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Sweet Dessert\01.Sweet Dessert\obj\Debug\01.Sweet Dessert.pdb

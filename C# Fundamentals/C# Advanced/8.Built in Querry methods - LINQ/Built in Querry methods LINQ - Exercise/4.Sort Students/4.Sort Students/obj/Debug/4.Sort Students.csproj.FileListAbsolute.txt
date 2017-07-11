@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\4.Sort Students\4.Sort Students\bin\Debug\4.Sort Students.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\4.Sort Students\4.Sort Students\bin\Debug\4.Sort Students.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\4.Sort Students\4.Sort Students\bin\Debug\4.Sort Students.pdb
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\4.Sort Students\4.Sort Students\obj\Debug\4.Sort Students.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\4.Sort Students\4.Sort Students\obj\Debug\4.Sort Students.pdb

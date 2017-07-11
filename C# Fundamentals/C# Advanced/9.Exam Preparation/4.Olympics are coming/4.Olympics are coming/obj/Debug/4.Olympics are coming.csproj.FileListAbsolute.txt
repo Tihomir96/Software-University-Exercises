@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Olympics are coming\4.Olympics are coming\bin\Debug\4.Olympics are coming.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Olympics are coming\4.Olympics are coming\bin\Debug\4.Olympics are coming.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Olympics are coming\4.Olympics are coming\bin\Debug\4.Olympics are coming.pdb
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Olympics are coming\4.Olympics are coming\obj\Debug\4.Olympics are coming.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Olympics are coming\4.Olympics are coming\obj\Debug\4.Olympics are coming.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Olympics are coming\4.Olympics are coming\obj\Debug\4.Olympics are coming.pdb

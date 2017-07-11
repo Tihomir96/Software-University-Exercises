@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Nature prophet\2.Nature prophet\bin\Debug\2.Nature prophet.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Nature prophet\2.Nature prophet\bin\Debug\2.Nature prophet.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Nature prophet\2.Nature prophet\bin\Debug\2.Nature prophet.pdb
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Nature prophet\2.Nature prophet\obj\Debug\2.Nature prophet.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Nature prophet\2.Nature prophet\obj\Debug\2.Nature prophet.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Nature prophet\2.Nature prophet\obj\Debug\2.Nature prophet.pdb

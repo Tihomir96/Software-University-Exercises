@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.Text Transformer\3.Text Transformer\bin\Debug\3.Text Transformer.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.Text Transformer\3.Text Transformer\bin\Debug\3.Text Transformer.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.Text Transformer\3.Text Transformer\bin\Debug\3.Text Transformer.pdb
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.Text Transformer\3.Text Transformer\obj\Debug\3.Text Transformer.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.Text Transformer\3.Text Transformer\obj\Debug\3.Text Transformer.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.Text Transformer\3.Text Transformer\obj\Debug\3.Text Transformer.pdb

@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Second Nature\1.Second Nature\bin\Debug\1.Second Nature.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Second Nature\1.Second Nature\bin\Debug\1.Second Nature.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Second Nature\1.Second Nature\bin\Debug\1.Second Nature.pdb
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Second Nature\1.Second Nature\obj\Debug\1.Second Nature.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Second Nature\1.Second Nature\obj\Debug\1.Second Nature.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Second Nature\1.Second Nature\obj\Debug\1.Second Nature.pdb

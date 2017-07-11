@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\03.Unicode Characters\03.Unicode Characters\bin\Debug\03.Unicode Characters.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\03.Unicode Characters\03.Unicode Characters\bin\Debug\03.Unicode Characters.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\03.Unicode Characters\03.Unicode Characters\bin\Debug\03.Unicode Characters.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\03.Unicode Characters\03.Unicode Characters\obj\Debug\03.Unicode Characters.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\03.Unicode Characters\03.Unicode Characters\obj\Debug\03.Unicode Characters.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\08.Strings\03.Unicode Characters\03.Unicode Characters\obj\Debug\03.Unicode Characters.pdb

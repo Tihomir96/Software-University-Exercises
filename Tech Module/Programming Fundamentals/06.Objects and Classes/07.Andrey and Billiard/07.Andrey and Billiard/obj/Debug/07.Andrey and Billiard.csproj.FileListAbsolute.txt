@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\07.Andrey and Billiard\07.Andrey and Billiard\bin\Debug\07.Andrey and Billiard.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\07.Andrey and Billiard\07.Andrey and Billiard\bin\Debug\07.Andrey and Billiard.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\07.Andrey and Billiard\07.Andrey and Billiard\bin\Debug\07.Andrey and Billiard.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\07.Andrey and Billiard\07.Andrey and Billiard\obj\Debug\07.Andrey and Billiard.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\07.Andrey and Billiard\07.Andrey and Billiard\obj\Debug\07.Andrey and Billiard.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\07.Andrey and Billiard\07.Andrey and Billiard\obj\Debug\07.Andrey and Billiard.pdb

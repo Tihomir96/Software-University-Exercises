@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\12.Little John\12.Little John\bin\Debug\12.Little John.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\12.Little John\12.Little John\bin\Debug\12.Little John.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\12.Little John\12.Little John\bin\Debug\12.Little John.pdb
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\12.Little John\12.Little John\obj\Debug\12.Little John.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\12.Little John\12.Little John\obj\Debug\12.Little John.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\12.Little John\12.Little John\obj\Debug\12.Little John.pdb

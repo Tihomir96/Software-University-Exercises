@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\5.Filter by Emails\5.Filter by Emails\bin\Debug\5.Filter by Emails.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\5.Filter by Emails\5.Filter by Emails\bin\Debug\5.Filter by Emails.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\5.Filter by Emails\5.Filter by Emails\bin\Debug\5.Filter by Emails.pdb
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\5.Filter by Emails\5.Filter by Emails\obj\Debug\5.Filter by Emails.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\5.Filter by Emails\5.Filter by Emails\obj\Debug\5.Filter by Emails.pdb

@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lists Exercises\Dictionaries Lambda and Linq\Dictionaries Lambda and Linq\bin\Debug\Dictionaries Lambda and Linq.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lists Exercises\Dictionaries Lambda and Linq\Dictionaries Lambda and Linq\bin\Debug\Dictionaries Lambda and Linq.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lists Exercises\Dictionaries Lambda and Linq\Dictionaries Lambda and Linq\bin\Debug\Dictionaries Lambda and Linq.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lists Exercises\Dictionaries Lambda and Linq\Dictionaries Lambda and Linq\obj\Debug\Dictionaries Lambda and Linq.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lists Exercises\Dictionaries Lambda and Linq\Dictionaries Lambda and Linq\obj\Debug\Dictionaries Lambda and Linq.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lists Exercises\Dictionaries Lambda and Linq\Dictionaries Lambda and Linq\obj\Debug\Dictionaries Lambda and Linq.pdb

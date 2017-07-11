@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Thea the Photographer\01.Thea the Photographer\bin\Debug\01.Thea the Photographer.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Thea the Photographer\01.Thea the Photographer\bin\Debug\01.Thea the Photographer.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Thea the Photographer\01.Thea the Photographer\bin\Debug\01.Thea the Photographer.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Thea the Photographer\01.Thea the Photographer\obj\Debug\01.Thea the Photographer.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Thea the Photographer\01.Thea the Photographer\obj\Debug\01.Thea the Photographer.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\01.Thea the Photographer\01.Thea the Photographer\obj\Debug\01.Thea the Photographer.pdb

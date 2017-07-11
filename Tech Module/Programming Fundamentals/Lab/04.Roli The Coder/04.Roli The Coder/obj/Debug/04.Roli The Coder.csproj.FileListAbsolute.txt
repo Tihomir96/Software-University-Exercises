@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\04.Roli The Coder\04.Roli The Coder\bin\Debug\04.Roli The Coder.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\04.Roli The Coder\04.Roli The Coder\bin\Debug\04.Roli The Coder.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\04.Roli The Coder\04.Roli The Coder\bin\Debug\04.Roli The Coder.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\04.Roli The Coder\04.Roli The Coder\obj\Debug\04.Roli The Coder.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\04.Roli The Coder\04.Roli The Coder\obj\Debug\04.Roli The Coder.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\04.Roli The Coder\04.Roli The Coder\obj\Debug\04.Roli The Coder.pdb

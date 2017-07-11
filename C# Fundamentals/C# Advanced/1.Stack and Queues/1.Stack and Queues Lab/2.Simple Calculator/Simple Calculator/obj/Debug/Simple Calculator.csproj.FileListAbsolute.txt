@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb

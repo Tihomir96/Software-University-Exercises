@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Fibonaci Ex.5\Methods and Debuging Fibonaci Ex.5\bin\Debug\Methods and Debuging Fibonaci Ex.5.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Fibonaci Ex.5\Methods and Debuging Fibonaci Ex.5\obj\Debug\Methods and Debuging Fibonaci Ex.5.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Fibonaci Ex.5\Methods and Debuging Fibonaci Ex.5\bin\Debug\Methods and Debuging Fibonaci Ex.5.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Fibonaci Ex.5\Methods and Debuging Fibonaci Ex.5\bin\Debug\Methods and Debuging Fibonaci Ex.5.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Fibonaci Ex.5\Methods and Debuging Fibonaci Ex.5\obj\Debug\Methods and Debuging Fibonaci Ex.5.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Methods and Debuging Fibonaci Ex.5\Methods and Debuging Fibonaci Ex.5\obj\Debug\Methods and Debuging Fibonaci Ex.5.pdb

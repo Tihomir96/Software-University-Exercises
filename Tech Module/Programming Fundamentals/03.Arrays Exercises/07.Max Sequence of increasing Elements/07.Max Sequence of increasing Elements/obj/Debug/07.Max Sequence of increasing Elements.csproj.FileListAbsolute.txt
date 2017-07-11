@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\07.Max Sequence of increasing Elements\07.Max Sequence of increasing Elements\bin\Debug\07.Max Sequence of increasing Elements.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\07.Max Sequence of increasing Elements\07.Max Sequence of increasing Elements\bin\Debug\07.Max Sequence of increasing Elements.exe
+c:\users\violeta\documents\visual studio 2015\Projects\07.Max Sequence of increasing Elements\07.Max Sequence of increasing Elements\bin\Debug\07.Max Sequence of increasing Elements.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\07.Max Sequence of increasing Elements\07.Max Sequence of increasing Elements\obj\Debug\07.Max Sequence of increasing Elements.exe
+c:\users\violeta\documents\visual studio 2015\Projects\07.Max Sequence of increasing Elements\07.Max Sequence of increasing Elements\obj\Debug\07.Max Sequence of increasing Elements.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\07.Max Sequence of increasing Elements\07.Max Sequence of increasing Elements\obj\Debug\07.Max Sequence of increasing Elements.csprojResolveAssemblyReference.cache

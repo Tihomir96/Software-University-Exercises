@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\3.Students by Age\3.Students by Age\bin\Debug\3.Students by Age.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\3.Students by Age\3.Students by Age\bin\Debug\3.Students by Age.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\3.Students by Age\3.Students by Age\bin\Debug\3.Students by Age.pdb
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\3.Students by Age\3.Students by Age\obj\Debug\3.Students by Age.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\3.Students by Age\3.Students by Age\obj\Debug\3.Students by Age.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\3.Students by Age\3.Students by Age\obj\Debug\3.Students by Age.pdb

@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\2.Creating Constructors\2.Creating Constructors\bin\Debug\2.Creating Constructors.exe.config
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\2.Creating Constructors\2.Creating Constructors\bin\Debug\2.Creating Constructors.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\2.Creating Constructors\2.Creating Constructors\bin\Debug\2.Creating Constructors.pdb
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\2.Creating Constructors\2.Creating Constructors\obj\Debug\2.Creating Constructors.exe
+D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\2.Creating Constructors\2.Creating Constructors\obj\Debug\2.Creating Constructors.pdb

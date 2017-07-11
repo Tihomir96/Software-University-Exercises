@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\7.Valid usernames\7.Valid usernames\bin\Debug\7.Valid usernames.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\7.Valid usernames\7.Valid usernames\bin\Debug\7.Valid usernames.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\7.Valid usernames\7.Valid usernames\bin\Debug\7.Valid usernames.pdb
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\7.Valid usernames\7.Valid usernames\obj\Debug\7.Valid usernames.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\7.Valid usernames\7.Valid usernames\obj\Debug\7.Valid usernames.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\7.Valid usernames\7.Valid usernames\obj\Debug\7.Valid usernames.pdb

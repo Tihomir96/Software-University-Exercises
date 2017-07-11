@@ -1,0 +1,5 @@
+c:\users\violeta\documents\visual studio 2015\Projects\07.Primes in Given Range MaD\07.Primes in Given Range MaD\bin\Debug\07.Primes in Given Range MaD.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\07.Primes in Given Range MaD\07.Primes in Given Range MaD\bin\Debug\07.Primes in Given Range MaD.exe
+c:\users\violeta\documents\visual studio 2015\Projects\07.Primes in Given Range MaD\07.Primes in Given Range MaD\bin\Debug\07.Primes in Given Range MaD.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\07.Primes in Given Range MaD\07.Primes in Given Range MaD\obj\Debug\07.Primes in Given Range MaD.exe
+c:\users\violeta\documents\visual studio 2015\Projects\07.Primes in Given Range MaD\07.Primes in Given Range MaD\obj\Debug\07.Primes in Given Range MaD.pdb

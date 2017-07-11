@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 17\Data Types and Variables 17\bin\Debug\Data Types and Variables 17.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 17\Data Types and Variables 17\bin\Debug\Data Types and Variables 17.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 17\Data Types and Variables 17\bin\Debug\Data Types and Variables 17.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 17\Data Types and Variables 17\obj\Debug\Data Types and Variables 17.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 17\Data Types and Variables 17\obj\Debug\Data Types and Variables 17.exe
+c:\users\violeta\documents\visual studio 2015\Projects\Data Types and Variables 17\Data Types and Variables 17\obj\Debug\Data Types and Variables 17.pdb

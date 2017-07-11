@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Endurance Rally\03.Endurance Rally\bin\Debug\03.Endurance Rally.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Endurance Rally\03.Endurance Rally\bin\Debug\03.Endurance Rally.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Endurance Rally\03.Endurance Rally\bin\Debug\03.Endurance Rally.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Endurance Rally\03.Endurance Rally\obj\Debug\03.Endurance Rally.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Endurance Rally\03.Endurance Rally\obj\Debug\03.Endurance Rally.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\03.Endurance Rally\03.Endurance Rally\obj\Debug\03.Endurance Rally.pdb

@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lists Exercises\04.Sum Reversed Number\04.Sum Reversed Number\bin\Debug\04.Sum Reversed Number.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lists Exercises\04.Sum Reversed Number\04.Sum Reversed Number\bin\Debug\04.Sum Reversed Number.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lists Exercises\04.Sum Reversed Number\04.Sum Reversed Number\bin\Debug\04.Sum Reversed Number.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lists Exercises\04.Sum Reversed Number\04.Sum Reversed Number\obj\Debug\04.Sum Reversed Number.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lists Exercises\04.Sum Reversed Number\04.Sum Reversed Number\obj\Debug\04.Sum Reversed Number.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lists Exercises\04.Sum Reversed Number\04.Sum Reversed Number\obj\Debug\04.Sum Reversed Number.pdb

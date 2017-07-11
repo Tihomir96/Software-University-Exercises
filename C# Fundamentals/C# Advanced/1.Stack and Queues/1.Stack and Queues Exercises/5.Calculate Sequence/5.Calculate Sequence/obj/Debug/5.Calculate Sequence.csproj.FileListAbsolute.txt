@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\5.Calculate Sequence\5.Calculate Sequence\bin\Debug\5.Calculate Sequence.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\5.Calculate Sequence\5.Calculate Sequence\bin\Debug\5.Calculate Sequence.exe
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\5.Calculate Sequence\5.Calculate Sequence\bin\Debug\5.Calculate Sequence.pdb
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\5.Calculate Sequence\5.Calculate Sequence\obj\Debug\5.Calculate Sequence.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\5.Calculate Sequence\5.Calculate Sequence\obj\Debug\5.Calculate Sequence.exe
+D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\5.Calculate Sequence\5.Calculate Sequence\obj\Debug\5.Calculate Sequence.pdb

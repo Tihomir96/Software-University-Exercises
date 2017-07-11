@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam\03.Hornet Assault\03.Hornet Assault\bin\Debug\03.Hornet Assault.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam\03.Hornet Assault\03.Hornet Assault\bin\Debug\03.Hornet Assault.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam\03.Hornet Assault\03.Hornet Assault\bin\Debug\03.Hornet Assault.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam\03.Hornet Assault\03.Hornet Assault\obj\Debug\03.Hornet Assault.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam\03.Hornet Assault\03.Hornet Assault\obj\Debug\03.Hornet Assault.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam\03.Hornet Assault\03.Hornet Assault\obj\Debug\03.Hornet Assault.pdb

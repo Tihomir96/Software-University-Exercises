@@ -1,0 +1,5 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\03.A Miner Task\03.A Miner Task\bin\Debug\03.A Miner Task.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\03.A Miner Task\03.A Miner Task\bin\Debug\03.A Miner Task.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\03.A Miner Task\03.A Miner Task\bin\Debug\03.A Miner Task.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\03.A Miner Task\03.A Miner Task\obj\Debug\03.A Miner Task.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\03.A Miner Task\03.A Miner Task\obj\Debug\03.A Miner Task.pdb

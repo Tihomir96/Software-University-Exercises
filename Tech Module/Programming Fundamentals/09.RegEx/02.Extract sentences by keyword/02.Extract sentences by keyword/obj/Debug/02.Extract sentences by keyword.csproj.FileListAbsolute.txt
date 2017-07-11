@@ -1,0 +1,1 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\09.RegEx\02.Extract sentences by keyword\02.Extract sentences by keyword\bin\Debug\02.Extract sentences by keyword.exe.config

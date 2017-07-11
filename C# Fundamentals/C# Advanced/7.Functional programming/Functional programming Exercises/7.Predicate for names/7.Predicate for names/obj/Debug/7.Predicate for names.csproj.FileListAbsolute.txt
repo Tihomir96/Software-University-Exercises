@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\7.Predicate for names\7.Predicate for names\bin\Debug\7.Predicate for names.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\7.Predicate for names\7.Predicate for names\bin\Debug\7.Predicate for names.exe
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\7.Predicate for names\7.Predicate for names\bin\Debug\7.Predicate for names.pdb
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\7.Predicate for names\7.Predicate for names\obj\Debug\7.Predicate for names.exe
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\7.Predicate for names\7.Predicate for names\obj\Debug\7.Predicate for names.pdb

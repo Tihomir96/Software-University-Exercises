@@ -1,0 +1,7 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lists Exercises\01. Max Sequence of Equal Elemen\01. Max Sequence of Equal Elemen\bin\Debug\_01.Max_Sequence_of_Equal_Elemen.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\04.Lists Exercises\01. Max Sequence of Equal Elemen\01. Max Sequence of Equal Elemen\bin\Debug\_01.Max_Sequence_of_Equal_Elemen.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\04.Lists Exercises\01. Max Sequence of Equal Elemen\01. Max Sequence of Equal Elemen\obj\Debug\01. Max Sequence of Equal Elemen.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\04.Lists Exercises\01. Max Sequence of Equal Elemen\01. Max Sequence of Equal Elemen\bin\Debug\_01.Max_Sequence_of_Equal_Elemen.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\04.Lists Exercises\01. Max Sequence of Equal Elemen\01. Max Sequence of Equal Elemen\bin\Debug\_01.Max_Sequence_of_Equal_Elemen.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\04.Lists Exercises\01. Max Sequence of Equal Elemen\01. Max Sequence of Equal Elemen\obj\Debug\_01.Max_Sequence_of_Equal_Elemen.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\04.Lists Exercises\01. Max Sequence of Equal Elemen\01. Max Sequence of Equal Elemen\obj\Debug\_01.Max_Sequence_of_Equal_Elemen.pdb

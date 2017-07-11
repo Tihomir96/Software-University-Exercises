@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\04.Average Grades\04.Average Grades\bin\Debug\04.Average Grades.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\04.Average Grades\04.Average Grades\bin\Debug\04.Average Grades.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\04.Average Grades\04.Average Grades\bin\Debug\04.Average Grades.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\04.Average Grades\04.Average Grades\obj\Debug\04.Average Grades.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\04.Average Grades\04.Average Grades\obj\Debug\04.Average Grades.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\04.Average Grades\04.Average Grades\obj\Debug\04.Average Grades.pdb

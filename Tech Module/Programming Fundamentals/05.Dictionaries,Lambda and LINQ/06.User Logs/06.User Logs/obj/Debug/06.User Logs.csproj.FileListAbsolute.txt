@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\06.User Logs\06.User Logs\bin\Debug\06.User Logs.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\06.User Logs\06.User Logs\bin\Debug\06.User Logs.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\06.User Logs\06.User Logs\bin\Debug\06.User Logs.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\06.User Logs\06.User Logs\obj\Debug\06.User Logs.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\06.User Logs\06.User Logs\obj\Debug\06.User Logs.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\06.User Logs\06.User Logs\obj\Debug\06.User Logs.pdb

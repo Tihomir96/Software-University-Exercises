@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\09.Longer Line 'MaD'\09.Longer Line 'MaD'\bin\Debug\09.Longer Line 'MaD'.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\09.Longer Line 'MaD'\09.Longer Line 'MaD'\bin\Debug\09.Longer Line 'MaD'.exe
+c:\users\violeta\documents\visual studio 2015\Projects\09.Longer Line 'MaD'\09.Longer Line 'MaD'\bin\Debug\09.Longer Line 'MaD'.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\09.Longer Line 'MaD'\09.Longer Line 'MaD'\obj\Debug\09.Longer Line 'MaD'.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\09.Longer Line 'MaD'\09.Longer Line 'MaD'\obj\Debug\09.Longer Line 'MaD'.exe
+c:\users\violeta\documents\visual studio 2015\Projects\09.Longer Line 'MaD'\09.Longer Line 'MaD'\obj\Debug\09.Longer Line 'MaD'.pdb

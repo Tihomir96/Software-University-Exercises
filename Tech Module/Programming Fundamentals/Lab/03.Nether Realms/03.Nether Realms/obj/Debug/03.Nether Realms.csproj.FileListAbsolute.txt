@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\03.Nether Realms\03.Nether Realms\bin\Debug\03.Nether Realms.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\03.Nether Realms\03.Nether Realms\bin\Debug\03.Nether Realms.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\03.Nether Realms\03.Nether Realms\bin\Debug\03.Nether Realms.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\03.Nether Realms\03.Nether Realms\obj\Debug\03.Nether Realms.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\03.Nether Realms\03.Nether Realms\obj\Debug\03.Nether Realms.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Lab\03.Nether Realms\03.Nether Realms\obj\Debug\03.Nether Realms.pdb

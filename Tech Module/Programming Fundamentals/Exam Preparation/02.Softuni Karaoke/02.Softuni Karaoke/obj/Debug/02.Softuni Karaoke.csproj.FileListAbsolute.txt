@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Softuni Karaoke\02.Softuni Karaoke\bin\Debug\02.Softuni Karaoke.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Softuni Karaoke\02.Softuni Karaoke\bin\Debug\02.Softuni Karaoke.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Softuni Karaoke\02.Softuni Karaoke\bin\Debug\02.Softuni Karaoke.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Softuni Karaoke\02.Softuni Karaoke\obj\Debug\02.Softuni Karaoke.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Softuni Karaoke\02.Softuni Karaoke\obj\Debug\02.Softuni Karaoke.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Softuni Karaoke\02.Softuni Karaoke\obj\Debug\02.Softuni Karaoke.pdb

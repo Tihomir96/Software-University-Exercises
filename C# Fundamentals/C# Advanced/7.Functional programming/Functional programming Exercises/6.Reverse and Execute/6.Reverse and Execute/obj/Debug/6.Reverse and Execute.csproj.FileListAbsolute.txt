@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\6.Reverse and Execute\6.Reverse and Execute\bin\Debug\6.Reverse and Execute.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\6.Reverse and Execute\6.Reverse and Execute\bin\Debug\6.Reverse and Execute.exe
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\6.Reverse and Execute\6.Reverse and Execute\bin\Debug\6.Reverse and Execute.pdb
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\6.Reverse and Execute\6.Reverse and Execute\obj\Debug\6.Reverse and Execute.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\6.Reverse and Execute\6.Reverse and Execute\obj\Debug\6.Reverse and Execute.exe
+D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\6.Reverse and Execute\6.Reverse and Execute\obj\Debug\6.Reverse and Execute.pdb

@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\8.Map Districts\8.Map Districts\bin\Debug\8.Map Districts.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\8.Map Districts\8.Map Districts\bin\Debug\8.Map Districts.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\8.Map Districts\8.Map Districts\bin\Debug\8.Map Districts.pdb
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\8.Map Districts\8.Map Districts\obj\Debug\8.Map Districts.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\8.Map Districts\8.Map Districts\obj\Debug\8.Map Districts.pdb

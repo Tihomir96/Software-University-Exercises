@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\3.Series of Letters\3.Series of Letters\bin\Debug\3.Series of Letters.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\3.Series of Letters\3.Series of Letters\bin\Debug\3.Series of Letters.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\3.Series of Letters\3.Series of Letters\bin\Debug\3.Series of Letters.pdb
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\3.Series of Letters\3.Series of Letters\obj\Debug\3.Series of Letters.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\3.Series of Letters\3.Series of Letters\obj\Debug\3.Series of Letters.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\3.Series of Letters\3.Series of Letters\obj\Debug\3.Series of Letters.pdb

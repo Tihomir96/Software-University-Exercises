@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\1.Students Results\1.Students Results\bin\Debug\1.Students Results.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\1.Students Results\1.Students Results\bin\Debug\1.Students Results.exe
+D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\1.Students Results\1.Students Results\bin\Debug\1.Students Results.pdb
+D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\1.Students Results\1.Students Results\obj\Debug\1.Students Results.exe
+D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\1.Students Results\1.Students Results\obj\Debug\1.Students Results.pdb

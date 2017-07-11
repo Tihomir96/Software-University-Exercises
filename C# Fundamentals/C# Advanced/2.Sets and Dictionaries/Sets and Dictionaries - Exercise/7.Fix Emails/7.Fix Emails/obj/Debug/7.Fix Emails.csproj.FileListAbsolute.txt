@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\7.Fix Emails\7.Fix Emails\bin\Debug\7.Fix Emails.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\7.Fix Emails\7.Fix Emails\bin\Debug\7.Fix Emails.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\7.Fix Emails\7.Fix Emails\bin\Debug\7.Fix Emails.pdb
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\7.Fix Emails\7.Fix Emails\obj\Debug\7.Fix Emails.exe
+D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\7.Fix Emails\7.Fix Emails\obj\Debug\7.Fix Emails.pdb

@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\04.Cubic Messages\04.Cubic Messages\bin\Debug\04.Cubic Messages.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\04.Cubic Messages\04.Cubic Messages\bin\Debug\04.Cubic Messages.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\04.Cubic Messages\04.Cubic Messages\bin\Debug\04.Cubic Messages.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\04.Cubic Messages\04.Cubic Messages\obj\Debug\04.Cubic Messages.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\04.Cubic Messages\04.Cubic Messages\obj\Debug\04.Cubic Messages.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\04.Cubic Messages\04.Cubic Messages\obj\Debug\04.Cubic Messages.pdb

@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\1. Match Full Name\1. Match Full Name\bin\Debug\_1.Match_Full_Name.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\1. Match Full Name\1. Match Full Name\bin\Debug\_1.Match_Full_Name.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\1. Match Full Name\1. Match Full Name\bin\Debug\_1.Match_Full_Name.pdb
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\1. Match Full Name\1. Match Full Name\obj\Debug\1. Match Full Name.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\1. Match Full Name\1. Match Full Name\obj\Debug\_1.Match_Full_Name.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\1. Match Full Name\1. Match Full Name\obj\Debug\_1.Match_Full_Name.pdb

@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Jedi Meditation\1.Jedi Meditation\bin\Debug\1.Jedi Meditation.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Jedi Meditation\1.Jedi Meditation\bin\Debug\1.Jedi Meditation.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Jedi Meditation\1.Jedi Meditation\bin\Debug\1.Jedi Meditation.pdb
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Jedi Meditation\1.Jedi Meditation\obj\Debug\1.Jedi Meditation.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Jedi Meditation\1.Jedi Meditation\obj\Debug\1.Jedi Meditation.exe
+D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Jedi Meditation\1.Jedi Meditation\obj\Debug\1.Jedi Meditation.pdb

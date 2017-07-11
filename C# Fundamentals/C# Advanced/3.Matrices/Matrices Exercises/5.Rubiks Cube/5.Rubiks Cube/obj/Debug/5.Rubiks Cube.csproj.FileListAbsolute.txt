@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\5.Rubiks Cube\5.Rubiks Cube\bin\Debug\5.Rubiks Cube.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\5.Rubiks Cube\5.Rubiks Cube\bin\Debug\5.Rubiks Cube.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\5.Rubiks Cube\5.Rubiks Cube\bin\Debug\5.Rubiks Cube.pdb
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\5.Rubiks Cube\5.Rubiks Cube\obj\Debug\5.Rubiks Cube.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\5.Rubiks Cube\5.Rubiks Cube\obj\Debug\5.Rubiks Cube.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\5.Rubiks Cube\5.Rubiks Cube\obj\Debug\5.Rubiks Cube.pdb

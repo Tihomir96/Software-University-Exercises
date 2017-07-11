@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\08.Center Point .MaD\08.Center Point .MaD\bin\Debug\_08.Center_Point.MaD.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\08.Center Point .MaD\08.Center Point .MaD\obj\Debug\_08.Center_Point.MaD.exe
+c:\users\violeta\documents\visual studio 2015\Projects\08.Center Point .MaD\08.Center Point .MaD\obj\Debug\_08.Center_Point.MaD.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\08.Center Point .MaD\08.Center Point .MaD\obj\Debug\08.Center Point .MaD.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\08.Center Point .MaD\08.Center Point .MaD\bin\Debug\_08.Center_Point.MaD.exe
+c:\users\violeta\documents\visual studio 2015\Projects\08.Center Point .MaD\08.Center Point .MaD\bin\Debug\_08.Center_Point.MaD.pdb

@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\05.Hands of Cards\05.Hands of Cards\bin\Debug\05.Hands of Cards.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\05.Hands of Cards\05.Hands of Cards\obj\Debug\05.Hands of Cards.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\05.Hands of Cards\05.Hands of Cards\bin\Debug\05.Hands of Cards.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\05.Hands of Cards\05.Hands of Cards\bin\Debug\05.Hands of Cards.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\05.Hands of Cards\05.Hands of Cards\obj\Debug\05.Hands of Cards.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\05.Dictionaries,Lambda and LINQ\05.Hands of Cards\05.Hands of Cards\obj\Debug\05.Hands of Cards.pdb

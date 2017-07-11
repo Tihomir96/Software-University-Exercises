@@ -1,0 +1,6 @@
+c:\users\violeta\documents\visual studio 2015\Projects\11.Equal Sum -Array-\11.Equal Sum -Array-\bin\Debug\11.Equal Sum -Array-.exe.config
+c:\users\violeta\documents\visual studio 2015\Projects\11.Equal Sum -Array-\11.Equal Sum -Array-\bin\Debug\11.Equal Sum -Array-.exe
+c:\users\violeta\documents\visual studio 2015\Projects\11.Equal Sum -Array-\11.Equal Sum -Array-\bin\Debug\11.Equal Sum -Array-.pdb
+c:\users\violeta\documents\visual studio 2015\Projects\11.Equal Sum -Array-\11.Equal Sum -Array-\obj\Debug\11.Equal Sum -Array-.csprojResolveAssemblyReference.cache
+c:\users\violeta\documents\visual studio 2015\Projects\11.Equal Sum -Array-\11.Equal Sum -Array-\obj\Debug\11.Equal Sum -Array-.exe
+c:\users\violeta\documents\visual studio 2015\Projects\11.Equal Sum -Array-\11.Equal Sum -Array-\obj\Debug\11.Equal Sum -Array-.pdb

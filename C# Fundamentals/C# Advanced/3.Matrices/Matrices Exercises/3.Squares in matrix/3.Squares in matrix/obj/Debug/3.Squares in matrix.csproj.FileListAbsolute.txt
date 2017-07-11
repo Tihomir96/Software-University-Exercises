@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\3.Squares in matrix\3.Squares in matrix\bin\Debug\3.Squares in matrix.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\3.Squares in matrix\3.Squares in matrix\bin\Debug\3.Squares in matrix.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\3.Squares in matrix\3.Squares in matrix\bin\Debug\3.Squares in matrix.pdb
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\3.Squares in matrix\3.Squares in matrix\obj\Debug\3.Squares in matrix.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\3.Squares in matrix\3.Squares in matrix\obj\Debug\3.Squares in matrix.exe
+D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\3.Squares in matrix\3.Squares in matrix\obj\Debug\3.Squares in matrix.pdb

@@ -1,0 +1,5 @@
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\3.Non-Digit Count\3.Non-Digit Count\bin\Debug\3.Non-Digit Count.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\3.Non-Digit Count\3.Non-Digit Count\bin\Debug\3.Non-Digit Count.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\3.Non-Digit Count\3.Non-Digit Count\bin\Debug\3.Non-Digit Count.pdb
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\3.Non-Digit Count\3.Non-Digit Count\obj\Debug\3.Non-Digit Count.exe
+D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\3.Non-Digit Count\3.Non-Digit Count\obj\Debug\3.Non-Digit Count.pdb

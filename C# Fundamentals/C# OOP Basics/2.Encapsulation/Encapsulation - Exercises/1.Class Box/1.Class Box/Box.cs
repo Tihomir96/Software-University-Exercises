@@ -1,0 +1,33 @@
+﻿namespace _1.Class_Box
+{
+    public class Box
+    {
+        private double length;
+        private double width;
+        private double height;
+        public Box(double length, double width, double height)
+        {
+            this.length = length;
+            this.width = width;
+            this.height = height;
+        }
+
+        public double GetSurfaceArea()
+        {
+            //Surface Area = 2lw + 2lh + 2wh
+            return (2 * this.length * this.width) + (2 * this.width * this.height) + (2 * this.length * this.height);
+        }
+
+        public double GetLateralSurfaceArea()
+        {
+            //Lateral Surface Area = 2lh + 2wh
+            return (2 * this.length * this.height) + (2 * width * height);
+        }
+
+        public double GetVolume()
+        {
+            //Volume = lwh
+            return this.length * this.width * this.height;
+        }
+    }
+}

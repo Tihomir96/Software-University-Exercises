@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Ladybugs\02.Ladybugs\bin\Debug\02.Ladybugs.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Ladybugs\02.Ladybugs\obj\Debug\02.Ladybugs.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Ladybugs\02.Ladybugs\bin\Debug\02.Ladybugs.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Ladybugs\02.Ladybugs\bin\Debug\02.Ladybugs.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Ladybugs\02.Ladybugs\obj\Debug\02.Ladybugs.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\Exam Preparation\02.Ladybugs\02.Ladybugs\obj\Debug\02.Ladybugs.pdb

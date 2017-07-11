@@ -1,0 +1,6 @@
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\10.Group by Group\10.Group by Group\bin\Debug\10.Group by Group.exe.config
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\10.Group by Group\10.Group by Group\bin\Debug\10.Group by Group.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\10.Group by Group\10.Group by Group\bin\Debug\10.Group by Group.pdb
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\10.Group by Group\10.Group by Group\obj\Debug\10.Group by Group.csprojResolveAssemblyReference.cache
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\10.Group by Group\10.Group by Group\obj\Debug\10.Group by Group.exe
+D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\10.Group by Group\10.Group by Group\obj\Debug\10.Group by Group.pdb

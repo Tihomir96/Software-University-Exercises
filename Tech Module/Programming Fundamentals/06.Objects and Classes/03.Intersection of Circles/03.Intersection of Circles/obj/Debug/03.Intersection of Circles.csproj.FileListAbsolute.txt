@@ -1,0 +1,6 @@
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\03.Intersection of Circles\03.Intersection of Circles\bin\Debug\03.Intersection of Circles.exe.config
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\03.Intersection of Circles\03.Intersection of Circles\bin\Debug\03.Intersection of Circles.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\03.Intersection of Circles\03.Intersection of Circles\bin\Debug\03.Intersection of Circles.pdb
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\03.Intersection of Circles\03.Intersection of Circles\obj\Debug\03.Intersection of Circles.csprojResolveAssemblyReference.cache
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\03.Intersection of Circles\03.Intersection of Circles\obj\Debug\03.Intersection of Circles.exe
+C:\Users\Violeta\Desktop\Tech Module\Programming Fundamentals\06.Objects and Classes\03.Intersection of Circles\03.Intersection of Circles\obj\Debug\03.Intersection of Circles.pdb
