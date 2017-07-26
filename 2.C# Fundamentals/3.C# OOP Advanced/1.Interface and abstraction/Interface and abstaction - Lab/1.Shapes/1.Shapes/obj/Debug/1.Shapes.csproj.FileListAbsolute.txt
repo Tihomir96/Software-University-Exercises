@@ -1,0 +1,6 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstaction - Lab\1.Shapes\1.Shapes\bin\Debug\1.Shapes.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstaction - Lab\1.Shapes\1.Shapes\bin\Debug\1.Shapes.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstaction - Lab\1.Shapes\1.Shapes\bin\Debug\1.Shapes.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstaction - Lab\1.Shapes\1.Shapes\obj\Debug\1.Shapes.csprojResolveAssemblyReference.cache
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstaction - Lab\1.Shapes\1.Shapes\obj\Debug\1.Shapes.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstaction - Lab\1.Shapes\1.Shapes\obj\Debug\1.Shapes.pdb

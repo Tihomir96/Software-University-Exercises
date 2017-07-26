@@ -1,0 +1,6 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstaction - Lab\2.Cars\2.Cars\bin\Debug\2.Cars.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstaction - Lab\2.Cars\2.Cars\bin\Debug\2.Cars.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstaction - Lab\2.Cars\2.Cars\bin\Debug\2.Cars.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstaction - Lab\2.Cars\2.Cars\obj\Debug\2.Cars.csprojResolveAssemblyReference.cache
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstaction - Lab\2.Cars\2.Cars\obj\Debug\2.Cars.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstaction - Lab\2.Cars\2.Cars\obj\Debug\2.Cars.pdb
