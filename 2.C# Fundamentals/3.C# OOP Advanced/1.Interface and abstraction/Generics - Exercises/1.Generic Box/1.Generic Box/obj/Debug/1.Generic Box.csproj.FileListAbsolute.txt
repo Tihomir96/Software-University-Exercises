@@ -1,0 +1,6 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\2.Generics\Generics - Exercises\1.Generic Box\1.Generic Box\bin\Debug\1.Generic Box.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\2.Generics\Generics - Exercises\1.Generic Box\1.Generic Box\bin\Debug\1.Generic Box.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\2.Generics\Generics - Exercises\1.Generic Box\1.Generic Box\bin\Debug\1.Generic Box.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\2.Generics\Generics - Exercises\1.Generic Box\1.Generic Box\obj\Debug\1.Generic Box.csprojResolveAssemblyReference.cache
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\2.Generics\Generics - Exercises\1.Generic Box\1.Generic Box\obj\Debug\1.Generic Box.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\2.Generics\Generics - Exercises\1.Generic Box\1.Generic Box\obj\Debug\1.Generic Box.pdb
