@@ -1,0 +1,6 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstraction - Exercise\1.Box of T\1.Box of T\bin\Debug\1.Box of T.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstraction - Exercise\1.Box of T\1.Box of T\bin\Debug\1.Box of T.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstraction - Exercise\1.Box of T\1.Box of T\bin\Debug\1.Box of T.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstraction - Exercise\1.Box of T\1.Box of T\obj\Debug\1.Box of T.csprojResolveAssemblyReference.cache
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstraction - Exercise\1.Box of T\1.Box of T\obj\Debug\1.Box of T.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstraction - Exercise\1.Box of T\1.Box of T\obj\Debug\1.Box of T.pdb

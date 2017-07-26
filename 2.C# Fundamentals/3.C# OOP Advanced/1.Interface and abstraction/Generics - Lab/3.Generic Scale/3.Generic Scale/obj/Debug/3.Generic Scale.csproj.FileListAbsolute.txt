@@ -1,0 +1,5 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\2.Generics\Generics - Lab\3.Generic Scale\3.Generic Scale\bin\Debug\3.Generic Scale.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\2.Generics\Generics - Lab\3.Generic Scale\3.Generic Scale\bin\Debug\3.Generic Scale.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\2.Generics\Generics - Lab\3.Generic Scale\3.Generic Scale\bin\Debug\3.Generic Scale.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\2.Generics\Generics - Lab\3.Generic Scale\3.Generic Scale\obj\Debug\3.Generic Scale.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\2.Generics\Generics - Lab\3.Generic Scale\3.Generic Scale\obj\Debug\3.Generic Scale.pdb

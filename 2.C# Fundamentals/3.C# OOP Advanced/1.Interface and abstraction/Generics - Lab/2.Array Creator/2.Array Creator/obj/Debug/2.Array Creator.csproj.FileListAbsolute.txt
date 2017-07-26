@@ -1,0 +1,6 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstraction - Exercise\2.Array Creator\2.Array Creator\bin\Debug\2.Array Creator.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstraction - Exercise\2.Array Creator\2.Array Creator\bin\Debug\2.Array Creator.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstraction - Exercise\2.Array Creator\2.Array Creator\bin\Debug\2.Array Creator.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstraction - Exercise\2.Array Creator\2.Array Creator\obj\Debug\2.Array Creator.csprojResolveAssemblyReference.cache
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstraction - Exercise\2.Array Creator\2.Array Creator\obj\Debug\2.Array Creator.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\1.Interface and abstraction\Interface and abstraction - Exercise\2.Array Creator\2.Array Creator\obj\Debug\2.Array Creator.pdb
