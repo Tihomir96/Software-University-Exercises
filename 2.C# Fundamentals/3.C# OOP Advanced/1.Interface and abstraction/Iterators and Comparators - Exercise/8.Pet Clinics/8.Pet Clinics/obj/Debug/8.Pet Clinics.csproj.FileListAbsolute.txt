@@ -1,0 +1,6 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\3.Iterators and Comparators\Iterators and Comparators - Exercise\8.Pet Clinics\8.Pet Clinics\bin\Debug\8.Pet Clinics.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\3.Iterators and Comparators\Iterators and Comparators - Exercise\8.Pet Clinics\8.Pet Clinics\bin\Debug\8.Pet Clinics.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\3.Iterators and Comparators\Iterators and Comparators - Exercise\8.Pet Clinics\8.Pet Clinics\bin\Debug\8.Pet Clinics.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\3.Iterators and Comparators\Iterators and Comparators - Exercise\8.Pet Clinics\8.Pet Clinics\obj\Debug\8.Pet Clinics.csprojResolveAssemblyReference.cache
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\3.Iterators and Comparators\Iterators and Comparators - Exercise\8.Pet Clinics\8.Pet Clinics\obj\Debug\8.Pet Clinics.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\3.Iterators and Comparators\Iterators and Comparators - Exercise\8.Pet Clinics\8.Pet Clinics\obj\Debug\8.Pet Clinics.pdb

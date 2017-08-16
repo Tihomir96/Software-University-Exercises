@@ -1,0 +1,6 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\3.Iterators and Comparators\Iterators and Comparators - Exercise\5.ComparingObject\5.ComparingObject\bin\Debug\5.ComparingObject.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\3.Iterators and Comparators\Iterators and Comparators - Exercise\5.ComparingObject\5.ComparingObject\bin\Debug\5.ComparingObject.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\3.Iterators and Comparators\Iterators and Comparators - Exercise\5.ComparingObject\5.ComparingObject\bin\Debug\5.ComparingObject.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\3.Iterators and Comparators\Iterators and Comparators - Exercise\5.ComparingObject\5.ComparingObject\obj\Debug\5.ComparingObject.csprojResolveAssemblyReference.cache
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\3.Iterators and Comparators\Iterators and Comparators - Exercise\5.ComparingObject\5.ComparingObject\obj\Debug\5.ComparingObject.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\3.Iterators and Comparators\Iterators and Comparators - Exercise\5.ComparingObject\5.ComparingObject\obj\Debug\5.ComparingObject.pdb
