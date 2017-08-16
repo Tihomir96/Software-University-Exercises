@@ -1,0 +1,6 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Lab\2.CoffeeMachine\2.CoffeeMachine\bin\Debug\2.CoffeeMachine.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Lab\2.CoffeeMachine\2.CoffeeMachine\bin\Debug\2.CoffeeMachine.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Lab\2.CoffeeMachine\2.CoffeeMachine\bin\Debug\2.CoffeeMachine.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Lab\2.CoffeeMachine\2.CoffeeMachine\obj\Debug\2.CoffeeMachine.csprojResolveAssemblyReference.cache
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Lab\2.CoffeeMachine\2.CoffeeMachine\obj\Debug\2.CoffeeMachine.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Lab\2.CoffeeMachine\2.CoffeeMachine\obj\Debug\2.CoffeeMachine.pdb

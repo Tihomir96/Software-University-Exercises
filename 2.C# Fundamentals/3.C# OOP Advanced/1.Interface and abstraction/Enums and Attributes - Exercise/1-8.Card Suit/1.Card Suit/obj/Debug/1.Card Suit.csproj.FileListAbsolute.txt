@@ -1,0 +1,6 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Exercise\1.Card Suit\1.Card Suit\bin\Debug\1.Card Suit.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Exercise\1.Card Suit\1.Card Suit\bin\Debug\1.Card Suit.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Exercise\1.Card Suit\1.Card Suit\bin\Debug\1.Card Suit.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Exercise\1.Card Suit\1.Card Suit\obj\Debug\1.Card Suit.csprojResolveAssemblyReference.cache
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Exercise\1.Card Suit\1.Card Suit\obj\Debug\1.Card Suit.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Exercise\1.Card Suit\1.Card Suit\obj\Debug\1.Card Suit.pdb

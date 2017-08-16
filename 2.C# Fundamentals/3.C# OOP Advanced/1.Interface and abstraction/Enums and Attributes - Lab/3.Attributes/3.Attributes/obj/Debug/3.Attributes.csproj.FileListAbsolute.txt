@@ -1,0 +1,5 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Lab\3.Attributes\3.Attributes\bin\Debug\3.Attributes.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Lab\3.Attributes\3.Attributes\bin\Debug\3.Attributes.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Lab\3.Attributes\3.Attributes\bin\Debug\3.Attributes.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Lab\3.Attributes\3.Attributes\obj\Debug\3.Attributes.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\4.Enums and Attributes\Enums and Attributes - Lab\3.Attributes\3.Attributes\obj\Debug\3.Attributes.pdb
