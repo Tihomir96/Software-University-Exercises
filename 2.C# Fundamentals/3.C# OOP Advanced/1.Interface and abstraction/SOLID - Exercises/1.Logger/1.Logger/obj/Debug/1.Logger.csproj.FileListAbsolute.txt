@@ -1,0 +1,6 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\7.SOLID\SOLID - Exercises\1.Logger\1.Logger\bin\Debug\1.Logger.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\7.SOLID\SOLID - Exercises\1.Logger\1.Logger\bin\Debug\1.Logger.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\7.SOLID\SOLID - Exercises\1.Logger\1.Logger\bin\Debug\1.Logger.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\7.SOLID\SOLID - Exercises\1.Logger\1.Logger\obj\Debug\1.Logger.csprojResolveAssemblyReference.cache
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\7.SOLID\SOLID - Exercises\1.Logger\1.Logger\obj\Debug\1.Logger.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\7.SOLID\SOLID - Exercises\1.Logger\1.Logger\obj\Debug\1.Logger.pdb
