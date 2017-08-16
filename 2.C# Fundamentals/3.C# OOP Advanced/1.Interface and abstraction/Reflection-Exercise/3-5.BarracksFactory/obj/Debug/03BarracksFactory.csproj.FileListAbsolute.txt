@@ -1,0 +1,6 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Exercise\03BarracksFactory\bin\Debug\03BarracksFactory.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Exercise\03BarracksFactory\bin\Debug\03BarracksFactory.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Exercise\03BarracksFactory\bin\Debug\03BarracksFactory.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Exercise\03BarracksFactory\obj\Debug\03BarracksFactory.csprojResolveAssemblyReference.cache
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Exercise\03BarracksFactory\obj\Debug\03BarracksFactory.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Exercise\03BarracksFactory\obj\Debug\03BarracksFactory.pdb

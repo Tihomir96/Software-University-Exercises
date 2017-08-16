@@ -1,0 +1,6 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Exercise\01HarestingFields\bin\Debug\01HarestingFields.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Exercise\01HarestingFields\bin\Debug\01HarestingFields.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Exercise\01HarestingFields\bin\Debug\01HarestingFields.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Exercise\01HarestingFields\obj\Debug\01HarestingFields.csprojResolveAssemblyReference.cache
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Exercise\01HarestingFields\obj\Debug\01HarestingFields.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Exercise\01HarestingFields\obj\Debug\01HarestingFields.pdb

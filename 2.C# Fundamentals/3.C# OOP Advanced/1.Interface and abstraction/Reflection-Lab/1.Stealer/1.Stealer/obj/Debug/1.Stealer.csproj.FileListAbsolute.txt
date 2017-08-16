@@ -1,0 +1,6 @@
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Lab\1.Stealer\1.Stealer\bin\Debug\1.Stealer.exe.config
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Lab\1.Stealer\1.Stealer\bin\Debug\1.Stealer.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Lab\1.Stealer\1.Stealer\bin\Debug\1.Stealer.pdb
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Lab\1.Stealer\1.Stealer\obj\Debug\1.Stealer.csprojResolveAssemblyReference.cache
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Lab\1.Stealer\1.Stealer\obj\Debug\1.Stealer.exe
+E:\Software University\2.C# Fundamentals\3.C# OOP Advanced\5.Reflection\Reflection-Lab\1.Stealer\1.Stealer\obj\Debug\1.Stealer.pdb
