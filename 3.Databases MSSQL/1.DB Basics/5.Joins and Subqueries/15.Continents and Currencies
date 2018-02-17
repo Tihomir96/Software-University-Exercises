@@ -1,0 +1,13 @@
+SELECT ContinentCode,CurrencyCode,CurrencyUsage
+FROM
+(SELECT  ContinentCode,CurrencyCode,CurrencyUsage,
+DENSE_RANK () OVER(PARTITION BY(ContinentCode)
+ORDER BY CurrencyUsage DESC)AS Rank
+FROM
+(SELECT 
+ContinentCode, CurrencyCode,COUNT(CurrencyCode) AS CurrencyUsage
+FROM Countries
+Group BY CurrencyCode,ContinentCode
+) AS currencies) AS rankedCurrencies
+WHERE [Rank] = 1 AND CurrencyUsage >1
+ORDER BY ContinentCode

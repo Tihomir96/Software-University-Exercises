@@ -1,0 +1,3 @@
+SELECT MIN(AvgSalary) as MinAverageSalary FROM
+(SELECT AVG(Salary) as AvgSalary FROM Employees
+GROUP BY DepartmentID)  AS avgSalary

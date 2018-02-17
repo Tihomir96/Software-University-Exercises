@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_SalesDatabase", "P03_SalesDatabase\P03_SalesDatabase.csproj", "{924E41F8-23BC-41E0-B237-523F034BB9CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesStartUp", "SalesStartUp\SalesStartUp.csproj", "{228175B0-BB95-45CB-A448-BAB0A97B3D65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924E41F8-23BC-41E0-B237-523F034BB9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924E41F8-23BC-41E0-B237-523F034BB9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924E41F8-23BC-41E0-B237-523F034BB9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924E41F8-23BC-41E0-B237-523F034BB9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228175B0-BB95-45CB-A448-BAB0A97B3D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228175B0-BB95-45CB-A448-BAB0A97B3D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228175B0-BB95-45CB-A448-BAB0A97B3D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228175B0-BB95-45CB-A448-BAB0A97B3D65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72BE76F7-8577-48CC-AA76-114062A931DF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+CREATE PROC usp_TransferMoney(@SenderId INT , @ReceiverId INT , @Amount DECIMAL(15,4))
+AS
+BEGIN TRANSACTION
+	EXEC usp_WithdrawMoney @SenderId ,@Amount
+	DECLARE @senderBalance DECIMAL(15,4) = (SELECT Balance FROM Accounts WHERE Id = @SenderId)
+	EXEC usp_DepositMoney @ReceiverId,@Amount
+	IF(@senderBalance <0)
+	BEGIN
+		ROLLBACK
+		RETURN
+	END
+COMMIT TRANSACTION
