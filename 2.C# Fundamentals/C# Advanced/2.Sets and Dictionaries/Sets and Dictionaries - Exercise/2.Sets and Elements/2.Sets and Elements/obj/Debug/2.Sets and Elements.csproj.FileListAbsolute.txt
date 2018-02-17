@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\2.Sets and Elements\2.Sets and Elements\bin\Debug\2.Sets and Elements.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\2.Sets and Elements\2.Sets and Elements\bin\Debug\2.Sets and Elements.exe
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\2.Sets and Elements\2.Sets and Elements\bin\Debug\2.Sets and Elements.pdb
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\2.Sets and Elements\2.Sets and Elements\obj\Debug\2.Sets and Elements.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\2.Sets and Elements\2.Sets and Elements\obj\Debug\2.Sets and Elements.exe
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\2.Sets and Elements\2.Sets and Elements\obj\Debug\2.Sets and Elements.pdb

@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\3.Group numbers\3.Group numbers\bin\Debug\3.Group numbers.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\3.Group numbers\3.Group numbers\bin\Debug\3.Group numbers.exe
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\3.Group numbers\3.Group numbers\bin\Debug\3.Group numbers.pdb
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\3.Group numbers\3.Group numbers\obj\Debug\3.Group numbers.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\3.Group numbers\3.Group numbers\obj\Debug\3.Group numbers.exe
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\3.Group numbers\3.Group numbers\obj\Debug\3.Group numbers.pdb

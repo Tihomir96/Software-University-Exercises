@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Jedi Galaxy\2.Jedi Galaxy\bin\Debug\2.Jedi Galaxy.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Jedi Galaxy\2.Jedi Galaxy\bin\Debug\2.Jedi Galaxy.exe
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Jedi Galaxy\2.Jedi Galaxy\bin\Debug\2.Jedi Galaxy.pdb
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Jedi Galaxy\2.Jedi Galaxy\obj\Debug\2.Jedi Galaxy.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Jedi Galaxy\2.Jedi Galaxy\obj\Debug\2.Jedi Galaxy.exe
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\2.Jedi Galaxy\2.Jedi Galaxy\obj\Debug\2.Jedi Galaxy.pdb

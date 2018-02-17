@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\5.Concatenate Strings\5.Concatenate Strings\bin\Debug\5.Concatenate Strings.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\5.Concatenate Strings\5.Concatenate Strings\bin\Debug\5.Concatenate Strings.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\5.Concatenate Strings\5.Concatenate Strings\bin\Debug\5.Concatenate Strings.pdb
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\5.Concatenate Strings\5.Concatenate Strings\obj\Debug\5.Concatenate Strings.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\5.Concatenate Strings\5.Concatenate Strings\obj\Debug\5.Concatenate Strings.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\5.Concatenate Strings\5.Concatenate Strings\obj\Debug\5.Concatenate Strings.pdb

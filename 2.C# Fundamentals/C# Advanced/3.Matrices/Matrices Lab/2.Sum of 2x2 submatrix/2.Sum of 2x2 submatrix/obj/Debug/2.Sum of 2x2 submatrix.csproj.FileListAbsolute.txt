@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\2.Sum of 2x2 submatrix\2.Sum of 2x2 submatrix\bin\Debug\2.Sum of 2x2 submatrix.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\2.Sum of 2x2 submatrix\2.Sum of 2x2 submatrix\bin\Debug\2.Sum of 2x2 submatrix.exe
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\2.Sum of 2x2 submatrix\2.Sum of 2x2 submatrix\bin\Debug\2.Sum of 2x2 submatrix.pdb
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\2.Sum of 2x2 submatrix\2.Sum of 2x2 submatrix\obj\Debug\2.Sum of 2x2 submatrix.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\2.Sum of 2x2 submatrix\2.Sum of 2x2 submatrix\obj\Debug\2.Sum of 2x2 submatrix.exe
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Lab\2.Sum of 2x2 submatrix\2.Sum of 2x2 submatrix\obj\Debug\2.Sum of 2x2 submatrix.pdb

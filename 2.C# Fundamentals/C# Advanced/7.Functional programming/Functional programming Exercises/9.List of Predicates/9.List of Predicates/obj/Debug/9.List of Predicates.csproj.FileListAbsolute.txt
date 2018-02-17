@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\9.List of Predicates\9.List of Predicates\bin\Debug\9.List of Predicates.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\9.List of Predicates\9.List of Predicates\bin\Debug\9.List of Predicates.exe
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\9.List of Predicates\9.List of Predicates\bin\Debug\9.List of Predicates.pdb
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\9.List of Predicates\9.List of Predicates\obj\Debug\9.List of Predicates.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\9.List of Predicates\9.List of Predicates\obj\Debug\9.List of Predicates.exe
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\9.List of Predicates\9.List of Predicates\obj\Debug\9.List of Predicates.pdb

@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\5.Pizza Calories\5.Pizza Calories\bin\Debug\5.Pizza Calories.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\5.Pizza Calories\5.Pizza Calories\bin\Debug\5.Pizza Calories.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\5.Pizza Calories\5.Pizza Calories\bin\Debug\5.Pizza Calories.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\5.Pizza Calories\5.Pizza Calories\obj\Debug\5.Pizza Calories.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\5.Pizza Calories\5.Pizza Calories\obj\Debug\5.Pizza Calories.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\5.Pizza Calories\5.Pizza Calories\obj\Debug\5.Pizza Calories.pdb

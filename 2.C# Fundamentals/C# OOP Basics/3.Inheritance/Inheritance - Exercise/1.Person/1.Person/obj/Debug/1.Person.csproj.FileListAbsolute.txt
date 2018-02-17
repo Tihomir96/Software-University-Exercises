@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\1.Person\1.Person\bin\Debug\1.Person.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\1.Person\1.Person\bin\Debug\1.Person.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\1.Person\1.Person\bin\Debug\1.Person.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\1.Person\1.Person\obj\Debug\1.Person.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\1.Person\1.Person\obj\Debug\1.Person.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\1.Person\1.Person\obj\Debug\1.Person.pdb

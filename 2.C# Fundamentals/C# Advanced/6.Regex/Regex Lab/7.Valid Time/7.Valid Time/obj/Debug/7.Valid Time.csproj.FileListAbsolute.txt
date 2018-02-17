@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\7.Valid Time\7.Valid Time\bin\Debug\7.Valid Time.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\7.Valid Time\7.Valid Time\bin\Debug\7.Valid Time.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\7.Valid Time\7.Valid Time\bin\Debug\7.Valid Time.pdb
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\7.Valid Time\7.Valid Time\obj\Debug\7.Valid Time.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\7.Valid Time\7.Valid Time\obj\Debug\7.Valid Time.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\7.Valid Time\7.Valid Time\obj\Debug\7.Valid Time.pdb

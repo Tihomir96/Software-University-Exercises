@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\3.Oldest family member\3.Oldest family member\bin\Debug\3.Oldest family member.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\3.Oldest family member\3.Oldest family member\bin\Debug\3.Oldest family member.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\3.Oldest family member\3.Oldest family member\bin\Debug\3.Oldest family member.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\3.Oldest family member\3.Oldest family member\obj\Debug\3.Oldest family member.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\3.Oldest family member\3.Oldest family member\obj\Debug\3.Oldest family member.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\3.Oldest family member\3.Oldest family member\obj\Debug\3.Oldest family member.pdb

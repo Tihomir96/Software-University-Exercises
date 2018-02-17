@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\4.Shoping Spree\4.Shoping Spree\bin\Debug\4.Shoping Spree.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\4.Shoping Spree\4.Shoping Spree\bin\Debug\4.Shoping Spree.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\4.Shoping Spree\4.Shoping Spree\bin\Debug\4.Shoping Spree.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\4.Shoping Spree\4.Shoping Spree\obj\Debug\4.Shoping Spree.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\4.Shoping Spree\4.Shoping Spree\obj\Debug\4.Shoping Spree.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\4.Shoping Spree\4.Shoping Spree\obj\Debug\4.Shoping Spree.pdb

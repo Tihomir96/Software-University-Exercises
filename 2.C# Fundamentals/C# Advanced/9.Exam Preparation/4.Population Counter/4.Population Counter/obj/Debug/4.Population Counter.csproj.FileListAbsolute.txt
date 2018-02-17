@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Population Counter\4.Population Counter\bin\Debug\4.Population Counter.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Population Counter\4.Population Counter\bin\Debug\4.Population Counter.exe
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Population Counter\4.Population Counter\bin\Debug\4.Population Counter.pdb
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Population Counter\4.Population Counter\obj\Debug\4.Population Counter.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Population Counter\4.Population Counter\obj\Debug\4.Population Counter.exe
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Population Counter\4.Population Counter\obj\Debug\4.Population Counter.pdb

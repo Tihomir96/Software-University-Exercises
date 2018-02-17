@@ -1,5 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\6.A miner task\6.A miner task\bin\Debug\6.A miner task.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\6.A miner task\6.A miner task\bin\Debug\6.A miner task.exe
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\6.A miner task\6.A miner task\bin\Debug\6.A miner task.pdb
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\6.A miner task\6.A miner task\obj\Debug\6.A miner task.exe
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\6.A miner task\6.A miner task\obj\Debug\6.A miner task.pdb

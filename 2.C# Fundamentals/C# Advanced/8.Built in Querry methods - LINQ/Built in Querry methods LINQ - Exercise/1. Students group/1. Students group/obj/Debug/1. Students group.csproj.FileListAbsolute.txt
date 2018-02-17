@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\1. Students group\1. Students group\bin\Debug\_1.Students_group.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\1. Students group\1. Students group\bin\Debug\_1.Students_group.exe
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\1. Students group\1. Students group\bin\Debug\_1.Students_group.pdb
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\1. Students group\1. Students group\obj\Debug\1. Students group.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\1. Students group\1. Students group\obj\Debug\_1.Students_group.exe
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\1. Students group\1. Students group\obj\Debug\_1.Students_group.pdb

@@ -1,5 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\2.Vowel Count\2.Vowel Count\bin\Debug\2.Vowel Count.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\2.Vowel Count\2.Vowel Count\bin\Debug\2.Vowel Count.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\2.Vowel Count\2.Vowel Count\bin\Debug\2.Vowel Count.pdb
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\2.Vowel Count\2.Vowel Count\obj\Debug\2.Vowel Count.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\2.Vowel Count\2.Vowel Count\obj\Debug\2.Vowel Count.pdb

@@ -1,5 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\8.Weak Students\8.Weak Students\bin\Debug\8.Weak Students.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\8.Weak Students\8.Weak Students\bin\Debug\8.Weak Students.exe
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\8.Weak Students\8.Weak Students\bin\Debug\8.Weak Students.pdb
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\8.Weak Students\8.Weak Students\obj\Debug\8.Weak Students.exe
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\8.Weak Students\8.Weak Students\obj\Debug\8.Weak Students.pdb

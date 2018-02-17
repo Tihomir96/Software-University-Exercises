@@ -1,5 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\2.String Length\2.String Length\bin\Debug\2.String Length.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\2.String Length\2.String Length\bin\Debug\2.String Length.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\2.String Length\2.String Length\bin\Debug\2.String Length.pdb
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\2.String Length\2.String Length\obj\Debug\2.String Length.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\2.String Length\2.String Length\obj\Debug\2.String Length.pdb

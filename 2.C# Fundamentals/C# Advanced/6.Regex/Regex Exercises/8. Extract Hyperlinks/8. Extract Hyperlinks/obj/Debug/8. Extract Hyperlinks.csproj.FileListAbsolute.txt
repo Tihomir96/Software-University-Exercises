@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\8. Extract Hyperlinks\8. Extract Hyperlinks\bin\Debug\_8.Extract_Hyperlinks.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\8. Extract Hyperlinks\8. Extract Hyperlinks\bin\Debug\_8.Extract_Hyperlinks.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\8. Extract Hyperlinks\8. Extract Hyperlinks\bin\Debug\_8.Extract_Hyperlinks.pdb
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\8. Extract Hyperlinks\8. Extract Hyperlinks\obj\Debug\8. Extract Hyperlinks.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\8. Extract Hyperlinks\8. Extract Hyperlinks\obj\Debug\_8.Extract_Hyperlinks.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\8. Extract Hyperlinks\8. Extract Hyperlinks\obj\Debug\_8.Extract_Hyperlinks.pdb

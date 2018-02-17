@@ -1,5 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\3.Periodic Table\3.Periodic Table\bin\Debug\3.Periodic Table.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\3.Periodic Table\3.Periodic Table\bin\Debug\3.Periodic Table.exe
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\3.Periodic Table\3.Periodic Table\bin\Debug\3.Periodic Table.pdb
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\3.Periodic Table\3.Periodic Table\obj\Debug\3.Periodic Table.exe
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Exercise\3.Periodic Table\3.Periodic Table\obj\Debug\3.Periodic Table.pdb

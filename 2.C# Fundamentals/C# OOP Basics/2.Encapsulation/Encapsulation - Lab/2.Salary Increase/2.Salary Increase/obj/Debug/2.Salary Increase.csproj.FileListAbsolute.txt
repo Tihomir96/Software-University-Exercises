@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\2.Salary Increase\2.Salary Increase\bin\Debug\2.Salary Increase.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\2.Salary Increase\2.Salary Increase\bin\Debug\2.Salary Increase.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\2.Salary Increase\2.Salary Increase\bin\Debug\2.Salary Increase.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\2.Salary Increase\2.Salary Increase\obj\Debug\2.Salary Increase.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\2.Salary Increase\2.Salary Increase\obj\Debug\2.Salary Increase.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Lab\2.Salary Increase\2.Salary Increase\obj\Debug\2.Salary Increase.pdb

@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\4.Replace a Tag\4.Replace a Tag\bin\Debug\4.Replace a Tag.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\4.Replace a Tag\4.Replace a Tag\bin\Debug\4.Replace a Tag.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\4.Replace a Tag\4.Replace a Tag\bin\Debug\4.Replace a Tag.pdb
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\4.Replace a Tag\4.Replace a Tag\obj\Debug\4.Replace a Tag.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\4.Replace a Tag\4.Replace a Tag\obj\Debug\4.Replace a Tag.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\4.Replace a Tag\4.Replace a Tag\obj\Debug\4.Replace a Tag.pdb

@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\1.Reverse Numbers\1.Reverse Numbers\obj\Debug\1.Reverse Numbers.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\1.Reverse Numbers\1.Reverse Numbers\bin\Debug\1.Reverse Numbers.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\1.Reverse Numbers\1.Reverse Numbers\bin\Debug\1.Reverse Numbers.exe
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\1.Reverse Numbers\1.Reverse Numbers\bin\Debug\1.Reverse Numbers.pdb
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\1.Reverse Numbers\1.Reverse Numbers\obj\Debug\1.Reverse Numbers.exe
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues\1.Stack and Queues Exercises\1.Reverse Numbers\1.Reverse Numbers\obj\Debug\1.Reverse Numbers.pdb

@@ -1,5 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\4.Polymorphism\Polymorphism - Lab\3.Shapes\3.Shapes\bin\Debug\3.Shapes.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\4.Polymorphism\Polymorphism - Lab\3.Shapes\3.Shapes\bin\Debug\3.Shapes.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\4.Polymorphism\Polymorphism - Lab\3.Shapes\3.Shapes\bin\Debug\3.Shapes.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\4.Polymorphism\Polymorphism - Lab\3.Shapes\3.Shapes\obj\Debug\3.Shapes.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\4.Polymorphism\Polymorphism - Lab\3.Shapes\3.Shapes\obj\Debug\3.Shapes.pdb

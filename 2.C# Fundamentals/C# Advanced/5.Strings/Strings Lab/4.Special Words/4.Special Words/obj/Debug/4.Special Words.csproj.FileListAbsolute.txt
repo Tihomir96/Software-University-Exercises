@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\4.Special Words\4.Special Words\bin\Debug\4.Special Words.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\4.Special Words\4.Special Words\bin\Debug\4.Special Words.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\4.Special Words\4.Special Words\bin\Debug\4.Special Words.pdb
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\4.Special Words\4.Special Words\obj\Debug\4.Special Words.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\4.Special Words\4.Special Words\obj\Debug\4.Special Words.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\4.Special Words\4.Special Words\obj\Debug\4.Special Words.pdb

@@ -1,5 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\3.Parse Tags\3.Parse Tags\bin\Debug\3.Parse Tags.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\3.Parse Tags\3.Parse Tags\bin\Debug\3.Parse Tags.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\3.Parse Tags\3.Parse Tags\bin\Debug\3.Parse Tags.pdb
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\3.Parse Tags\3.Parse Tags\obj\Debug\3.Parse Tags.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Lab\3.Parse Tags\3.Parse Tags\obj\Debug\3.Parse Tags.pdb

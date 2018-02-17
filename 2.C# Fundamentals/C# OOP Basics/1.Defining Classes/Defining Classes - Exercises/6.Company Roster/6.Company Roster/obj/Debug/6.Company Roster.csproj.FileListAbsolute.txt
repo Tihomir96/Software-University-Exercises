@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\6.Company Roster\6.Company Roster\bin\Debug\6.Company Roster.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\6.Company Roster\6.Company Roster\bin\Debug\6.Company Roster.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\6.Company Roster\6.Company Roster\bin\Debug\6.Company Roster.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\6.Company Roster\6.Company Roster\obj\Debug\6.Company Roster.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\6.Company Roster\6.Company Roster\obj\Debug\6.Company Roster.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\6.Company Roster\6.Company Roster\obj\Debug\6.Company Roster.pdb

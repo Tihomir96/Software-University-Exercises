@@ -1,5 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\7.Excellent Studen\7.Excellent Studen\bin\Debug\7.Excellent Studen.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\7.Excellent Studen\7.Excellent Studen\bin\Debug\7.Excellent Studen.exe
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\7.Excellent Studen\7.Excellent Studen\bin\Debug\7.Excellent Studen.pdb
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\7.Excellent Studen\7.Excellent Studen\obj\Debug\7.Excellent Studen.exe
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methos -LINQ  - Lab\7.Excellent Studen\7.Excellent Studen\obj\Debug\7.Excellent Studen.pdb

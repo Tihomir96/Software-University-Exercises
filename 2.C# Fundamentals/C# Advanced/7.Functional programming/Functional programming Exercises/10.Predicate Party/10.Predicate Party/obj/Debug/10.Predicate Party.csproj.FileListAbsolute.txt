@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\10.Predicate Party\10.Predicate Party\bin\Debug\10.Predicate Party.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\10.Predicate Party\10.Predicate Party\bin\Debug\10.Predicate Party.exe
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\10.Predicate Party\10.Predicate Party\bin\Debug\10.Predicate Party.pdb
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\10.Predicate Party\10.Predicate Party\obj\Debug\10.Predicate Party.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\10.Predicate Party\10.Predicate Party\obj\Debug\10.Predicate Party.exe
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\10.Predicate Party\10.Predicate Party\obj\Debug\10.Predicate Party.pdb

@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\9. Text Filter\9. Text Filter\bin\Debug\_9.Text_Filter.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\9. Text Filter\9. Text Filter\bin\Debug\_9.Text_Filter.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\9. Text Filter\9. Text Filter\bin\Debug\_9.Text_Filter.pdb
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\9. Text Filter\9. Text Filter\obj\Debug\9. Text Filter.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\9. Text Filter\9. Text Filter\obj\Debug\_9.Text_Filter.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\9. Text Filter\9. Text Filter\obj\Debug\_9.Text_Filter.pdb

@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\6.Count Substring Occurences\6.Count Substring Occurences\bin\Debug\6.Count Substring Occurences.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\6.Count Substring Occurences\6.Count Substring Occurences\bin\Debug\6.Count Substring Occurences.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\6.Count Substring Occurences\6.Count Substring Occurences\bin\Debug\6.Count Substring Occurences.pdb
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\6.Count Substring Occurences\6.Count Substring Occurences\obj\Debug\6.Count Substring Occurences.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\6.Count Substring Occurences\6.Count Substring Occurences\obj\Debug\6.Count Substring Occurences.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\6.Count Substring Occurences\6.Count Substring Occurences\obj\Debug\6.Count Substring Occurences.pdb

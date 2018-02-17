@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\11.Semantic HTML\11.Semantic HTML\bin\Debug\11.Semantic HTML.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\11.Semantic HTML\11.Semantic HTML\bin\Debug\11.Semantic HTML.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\11.Semantic HTML\11.Semantic HTML\bin\Debug\11.Semantic HTML.pdb
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\11.Semantic HTML\11.Semantic HTML\obj\Debug\11.Semantic HTML.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\11.Semantic HTML\11.Semantic HTML\obj\Debug\11.Semantic HTML.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\11.Semantic HTML\11.Semantic HTML\obj\Debug\11.Semantic HTML.pdb

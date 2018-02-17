@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\6.Sentence Extractor\6.Sentence Extractor\bin\Debug\6.Sentence Extractor.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\6.Sentence Extractor\6.Sentence Extractor\bin\Debug\6.Sentence Extractor.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\6.Sentence Extractor\6.Sentence Extractor\bin\Debug\6.Sentence Extractor.pdb
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\6.Sentence Extractor\6.Sentence Extractor\obj\Debug\6.Sentence Extractor.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\6.Sentence Extractor\6.Sentence Extractor\obj\Debug\6.Sentence Extractor.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\6.Sentence Extractor\6.Sentence Extractor\obj\Debug\6.Sentence Extractor.pdb

@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\13.Office Stuff\13.Office Stuff\bin\Debug\13.Office Stuff.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\13.Office Stuff\13.Office Stuff\bin\Debug\13.Office Stuff.exe
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\13.Office Stuff\13.Office Stuff\bin\Debug\13.Office Stuff.pdb
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\13.Office Stuff\13.Office Stuff\obj\Debug\13.Office Stuff.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\13.Office Stuff\13.Office Stuff\obj\Debug\13.Office Stuff.exe
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\13.Office Stuff\13.Office Stuff\obj\Debug\13.Office Stuff.pdb

@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Bunker Buster\1.Bunker Buster\bin\Debug\1.Bunker Buster.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Bunker Buster\1.Bunker Buster\bin\Debug\1.Bunker Buster.exe
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Bunker Buster\1.Bunker Buster\bin\Debug\1.Bunker Buster.pdb
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Bunker Buster\1.Bunker Buster\obj\Debug\1.Bunker Buster.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Bunker Buster\1.Bunker Buster\obj\Debug\1.Bunker Buster.exe
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\1.Bunker Buster\1.Bunker Buster\obj\Debug\1.Bunker Buster.pdb

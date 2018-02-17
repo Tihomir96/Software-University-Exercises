@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\13.Magic Exchangeable Words\13.Magic Exchangeable Words\bin\Debug\13.Magic Exchangeable Words.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\13.Magic Exchangeable Words\13.Magic Exchangeable Words\bin\Debug\13.Magic Exchangeable Words.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\13.Magic Exchangeable Words\13.Magic Exchangeable Words\bin\Debug\13.Magic Exchangeable Words.pdb
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\13.Magic Exchangeable Words\13.Magic Exchangeable Words\obj\Debug\13.Magic Exchangeable Words.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\13.Magic Exchangeable Words\13.Magic Exchangeable Words\obj\Debug\13.Magic Exchangeable Words.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\13.Magic Exchangeable Words\13.Magic Exchangeable Words\obj\Debug\13.Magic Exchangeable Words.pdb

@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\1.Persons by Name and Age\1.Persons by Name and Age\bin\Debug\1.Persons by Name and Age.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\1.Persons by Name and Age\1.Persons by Name and Age\bin\Debug\1.Persons by Name and Age.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\1.Persons by Name and Age\1.Persons by Name and Age\bin\Debug\1.Persons by Name and Age.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\1.Persons by Name and Age\1.Persons by Name and Age\obj\Debug\1.Persons by Name and Age.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\1.Persons by Name and Age\1.Persons by Name and Age\obj\Debug\1.Persons by Name and Age.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\1.Persons by Name and Age\1.Persons by Name and Age\obj\Debug\1.Persons by Name and Age.pdb

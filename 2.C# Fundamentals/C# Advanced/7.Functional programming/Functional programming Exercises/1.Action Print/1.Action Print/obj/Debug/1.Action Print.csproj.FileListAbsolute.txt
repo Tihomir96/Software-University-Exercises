@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\1.Action Print\1.Action Print\bin\Debug\1.Action Print.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\1.Action Print\1.Action Print\bin\Debug\1.Action Print.exe
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\1.Action Print\1.Action Print\bin\Debug\1.Action Print.pdb
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\1.Action Print\1.Action Print\obj\Debug\1.Action Print.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\1.Action Print\1.Action Print\obj\Debug\1.Action Print.exe
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Exercises\1.Action Print\1.Action Print\obj\Debug\1.Action Print.pdb

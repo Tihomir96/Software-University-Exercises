@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\11.Students join\11.Students join\bin\Debug\11.Students join.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\11.Students join\11.Students join\bin\Debug\11.Students join.exe
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\11.Students join\11.Students join\bin\Debug\11.Students join.pdb
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\11.Students join\11.Students join\obj\Debug\11.Students join.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\11.Students join\11.Students join\obj\Debug\11.Students join.exe
-D:\Software University\C# Fundamentals\C# Advanced\8.Built in Querry methods - LINQ\Built in Querry methods LINQ - Exercise\11.Students join\11.Students join\obj\Debug\11.Students join.pdb

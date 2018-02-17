@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.Basic Markup Language\3.Basic Markup Language\bin\Debug\3.Basic Markup Language.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.Basic Markup Language\3.Basic Markup Language\bin\Debug\3.Basic Markup Language.exe
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.Basic Markup Language\3.Basic Markup Language\bin\Debug\3.Basic Markup Language.pdb
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.Basic Markup Language\3.Basic Markup Language\obj\Debug\3.Basic Markup Language.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.Basic Markup Language\3.Basic Markup Language\obj\Debug\3.Basic Markup Language.exe
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.Basic Markup Language\3.Basic Markup Language\obj\Debug\3.Basic Markup Language.pdb

@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\3.Formatting numbers\3.Formatting numbers\bin\Debug\3.Formatting numbers.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\3.Formatting numbers\3.Formatting numbers\bin\Debug\3.Formatting numbers.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\3.Formatting numbers\3.Formatting numbers\bin\Debug\3.Formatting numbers.pdb
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\3.Formatting numbers\3.Formatting numbers\obj\Debug\3.Formatting numbers.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\3.Formatting numbers\3.Formatting numbers\obj\Debug\3.Formatting numbers.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\3.Formatting numbers\3.Formatting numbers\obj\Debug\3.Formatting numbers.pdb

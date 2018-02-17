@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\3.Count Uppercase Words\3.Count Uppercase Words\obj\Debug\3.Count Uppercase Words.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\3.Count Uppercase Words\3.Count Uppercase Words\bin\Debug\3.Count Uppercase Words.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\3.Count Uppercase Words\3.Count Uppercase Words\bin\Debug\3.Count Uppercase Words.exe
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\3.Count Uppercase Words\3.Count Uppercase Words\bin\Debug\3.Count Uppercase Words.pdb
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\3.Count Uppercase Words\3.Count Uppercase Words\obj\Debug\3.Count Uppercase Words.exe
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\3.Count Uppercase Words\3.Count Uppercase Words\obj\Debug\3.Count Uppercase Words.pdb

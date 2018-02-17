@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\2.Book Shop\2.Book Shop\bin\Debug\2.Book Shop.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\2.Book Shop\2.Book Shop\bin\Debug\2.Book Shop.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\2.Book Shop\2.Book Shop\bin\Debug\2.Book Shop.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\2.Book Shop\2.Book Shop\obj\Debug\2.Book Shop.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\2.Book Shop\2.Book Shop\obj\Debug\2.Book Shop.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\3.Inheritance\Inheritance - Exercise\2.Book Shop\2.Book Shop\obj\Debug\2.Book Shop.pdb

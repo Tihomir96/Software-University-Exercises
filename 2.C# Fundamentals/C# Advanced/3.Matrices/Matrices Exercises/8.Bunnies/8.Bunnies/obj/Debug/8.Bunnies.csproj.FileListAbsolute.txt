@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\8.Bunnies\8.Bunnies\bin\Debug\8.Bunnies.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\8.Bunnies\8.Bunnies\bin\Debug\8.Bunnies.exe
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\8.Bunnies\8.Bunnies\bin\Debug\8.Bunnies.pdb
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\8.Bunnies\8.Bunnies\obj\Debug\8.Bunnies.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\8.Bunnies\8.Bunnies\obj\Debug\8.Bunnies.exe
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\8.Bunnies\8.Bunnies\obj\Debug\8.Bunnies.pdb

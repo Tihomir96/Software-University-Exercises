@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Champions League\4.Champions League\bin\Debug\4.Champions League.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Champions League\4.Champions League\bin\Debug\4.Champions League.exe
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Champions League\4.Champions League\bin\Debug\4.Champions League.pdb
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Champions League\4.Champions League\obj\Debug\4.Champions League.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Champions League\4.Champions League\obj\Debug\4.Champions League.exe
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\4.Champions League\4.Champions League\obj\Debug\4.Champions League.pdb

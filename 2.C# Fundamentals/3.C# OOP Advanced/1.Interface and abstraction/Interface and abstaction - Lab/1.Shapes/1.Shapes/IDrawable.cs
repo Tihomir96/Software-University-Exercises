@@ -1,0 +1,7 @@
+﻿
+
+    interface IDrawable
+    {
+        void Draw();
+    }
+

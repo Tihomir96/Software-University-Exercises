@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\5.Extract Tags\5.Extract Tags\bin\Debug\5.Extract Tags.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\5.Extract Tags\5.Extract Tags\bin\Debug\5.Extract Tags.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\5.Extract Tags\5.Extract Tags\bin\Debug\5.Extract Tags.pdb
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\5.Extract Tags\5.Extract Tags\obj\Debug\5.Extract Tags.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\5.Extract Tags\5.Extract Tags\obj\Debug\5.Extract Tags.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\5.Extract Tags\5.Extract Tags\obj\Debug\5.Extract Tags.pdb

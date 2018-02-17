@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\2. Match Phone Number\2. Match Phone Number\bin\Debug\_2.Match_Phone_Number.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\2. Match Phone Number\2. Match Phone Number\bin\Debug\_2.Match_Phone_Number.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\2. Match Phone Number\2. Match Phone Number\bin\Debug\_2.Match_Phone_Number.pdb
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\2. Match Phone Number\2. Match Phone Number\obj\Debug\2. Match Phone Number.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\2. Match Phone Number\2. Match Phone Number\obj\Debug\_2.Match_Phone_Number.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Exercises\2. Match Phone Number\2. Match Phone Number\obj\Debug\_2.Match_Phone_Number.pdb

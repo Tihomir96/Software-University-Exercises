@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\7.Sum big numbers\7.Sum big numbers\bin\Debug\7.Sum big numbers.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\7.Sum big numbers\7.Sum big numbers\bin\Debug\7.Sum big numbers.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\7.Sum big numbers\7.Sum big numbers\bin\Debug\7.Sum big numbers.pdb
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\7.Sum big numbers\7.Sum big numbers\obj\Debug\7.Sum big numbers.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\7.Sum big numbers\7.Sum big numbers\obj\Debug\7.Sum big numbers.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\7.Sum big numbers\7.Sum big numbers\obj\Debug\7.Sum big numbers.pdb

@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\1.Bank Account Class\Bank Account Class\bin\Debug\Bank Account Class.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\1.Bank Account Class\Bank Account Class\bin\Debug\Bank Account Class.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\1.Bank Account Class\Bank Account Class\bin\Debug\Bank Account Class.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\1.Bank Account Class\Bank Account Class\obj\Debug\Bank Account Class.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\1.Bank Account Class\Bank Account Class\obj\Debug\Bank Account Class.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\1.Bank Account Class\Bank Account Class\obj\Debug\Bank Account Class.pdb

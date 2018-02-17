@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\1.Match Count\1.Match Count\bin\Debug\1.Match Count.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\1.Match Count\1.Match Count\bin\Debug\1.Match Count.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\1.Match Count\1.Match Count\bin\Debug\1.Match Count.pdb
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\1.Match Count\1.Match Count\obj\Debug\1.Match Count.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\1.Match Count\1.Match Count\obj\Debug\1.Match Count.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\1.Match Count\1.Match Count\obj\Debug\1.Match Count.pdb

@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.NMS\3.NMS\bin\Debug\3.NMS.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.NMS\3.NMS\bin\Debug\3.NMS.exe
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.NMS\3.NMS\bin\Debug\3.NMS.pdb
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.NMS\3.NMS\obj\Debug\3.NMS.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.NMS\3.NMS\obj\Debug\3.NMS.exe
-D:\Software University\C# Fundamentals\C# Advanced\9.Exam Preparation\3.NMS\3.NMS\obj\Debug\3.NMS.pdb

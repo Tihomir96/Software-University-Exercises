@@ -1,5 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\4.Add VAT\4.Add VAT\bin\Debug\4.Add VAT.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\4.Add VAT\4.Add VAT\bin\Debug\4.Add VAT.exe
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\4.Add VAT\4.Add VAT\bin\Debug\4.Add VAT.pdb
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\4.Add VAT\4.Add VAT\obj\Debug\4.Add VAT.exe
-D:\Software University\C# Fundamentals\C# Advanced\7.Functional programming\Functional programming Lab\4.Add VAT\4.Add VAT\obj\Debug\4.Add VAT.pdb

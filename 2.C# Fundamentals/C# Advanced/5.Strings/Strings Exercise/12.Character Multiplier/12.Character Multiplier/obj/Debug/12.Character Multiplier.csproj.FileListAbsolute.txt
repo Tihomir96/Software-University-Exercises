@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\12.Character Multiplier\12.Character Multiplier\bin\Debug\12.Character Multiplier.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\12.Character Multiplier\12.Character Multiplier\bin\Debug\12.Character Multiplier.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\12.Character Multiplier\12.Character Multiplier\bin\Debug\12.Character Multiplier.pdb
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\12.Character Multiplier\12.Character Multiplier\obj\Debug\12.Character Multiplier.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\12.Character Multiplier\12.Character Multiplier\obj\Debug\12.Character Multiplier.exe
-D:\Software University\C# Fundamentals\C# Advanced\5.Strings\Strings Exercise\12.Character Multiplier\12.Character Multiplier\obj\Debug\12.Character Multiplier.pdb

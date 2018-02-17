@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\4.Polymorphism\Polymorphism - Lab\1.MathOperations\1.MathOperations\bin\Debug\1.MathOperations.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\4.Polymorphism\Polymorphism - Lab\1.MathOperations\1.MathOperations\bin\Debug\1.MathOperations.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\4.Polymorphism\Polymorphism - Lab\1.MathOperations\1.MathOperations\bin\Debug\1.MathOperations.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\4.Polymorphism\Polymorphism - Lab\1.MathOperations\1.MathOperations\obj\Debug\1.MathOperations.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# OOP Basics\4.Polymorphism\Polymorphism - Lab\1.MathOperations\1.MathOperations\obj\Debug\1.MathOperations.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\4.Polymorphism\Polymorphism - Lab\1.MathOperations\1.MathOperations\obj\Debug\1.MathOperations.pdb

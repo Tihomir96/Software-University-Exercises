@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\2.Softuni Party\2.Softuni Party\bin\Debug\2.Softuni Party.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\2.Softuni Party\2.Softuni Party\bin\Debug\2.Softuni Party.exe
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\2.Softuni Party\2.Softuni Party\bin\Debug\2.Softuni Party.pdb
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\2.Softuni Party\2.Softuni Party\obj\Debug\2.Softuni Party.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\2.Softuni Party\2.Softuni Party\obj\Debug\2.Softuni Party.exe
-D:\Software University\C# Fundamentals\C# Advanced\2.Sets and Dictionaries\Sets and Dictionaries - Lab\2.Softuni Party\2.Softuni Party\obj\Debug\2.Softuni Party.pdb

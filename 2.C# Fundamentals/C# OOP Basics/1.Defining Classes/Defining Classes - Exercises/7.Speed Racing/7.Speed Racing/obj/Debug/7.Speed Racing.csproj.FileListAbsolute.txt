@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\7.Speed Racing\7.Speed Racing\bin\Debug\7.Speed Racing.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\7.Speed Racing\7.Speed Racing\bin\Debug\7.Speed Racing.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\7.Speed Racing\7.Speed Racing\bin\Debug\7.Speed Racing.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\7.Speed Racing\7.Speed Racing\obj\Debug\7.Speed Racing.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\7.Speed Racing\7.Speed Racing\obj\Debug\7.Speed Racing.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\7.Speed Racing\7.Speed Racing\obj\Debug\7.Speed Racing.pdb

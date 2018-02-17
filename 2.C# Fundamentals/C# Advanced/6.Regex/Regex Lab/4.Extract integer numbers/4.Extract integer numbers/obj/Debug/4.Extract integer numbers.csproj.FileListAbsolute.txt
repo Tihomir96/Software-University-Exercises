@@ -1,5 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\4.Extract integer numbers\4.Extract integer numbers\bin\Debug\4.Extract integer numbers.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\4.Extract integer numbers\4.Extract integer numbers\bin\Debug\4.Extract integer numbers.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\4.Extract integer numbers\4.Extract integer numbers\bin\Debug\4.Extract integer numbers.pdb
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\4.Extract integer numbers\4.Extract integer numbers\obj\Debug\4.Extract integer numbers.exe
-D:\Software University\C# Fundamentals\C# Advanced\6.Regex\Regex Lab\4.Extract integer numbers\4.Extract integer numbers\obj\Debug\4.Extract integer numbers.pdb

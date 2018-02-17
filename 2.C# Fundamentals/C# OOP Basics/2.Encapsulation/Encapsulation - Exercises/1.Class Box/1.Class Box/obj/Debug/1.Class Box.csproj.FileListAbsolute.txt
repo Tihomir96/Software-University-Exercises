@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\1.Class Box\1.Class Box\bin\Debug\1.Class Box.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\1.Class Box\1.Class Box\bin\Debug\1.Class Box.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\1.Class Box\1.Class Box\bin\Debug\1.Class Box.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\1.Class Box\1.Class Box\obj\Debug\1.Class Box.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\1.Class Box\1.Class Box\obj\Debug\1.Class Box.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\1.Class Box\1.Class Box\obj\Debug\1.Class Box.pdb

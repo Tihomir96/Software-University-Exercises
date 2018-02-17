@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\10.The Heigan Dance\10.The Heigan Dance\obj\Debug\10.The Heigan Dance.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\10.The Heigan Dance\10.The Heigan Dance\bin\Debug\10.The Heigan Dance.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\10.The Heigan Dance\10.The Heigan Dance\bin\Debug\10.The Heigan Dance.exe
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\10.The Heigan Dance\10.The Heigan Dance\bin\Debug\10.The Heigan Dance.pdb
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\10.The Heigan Dance\10.The Heigan Dance\obj\Debug\10.The Heigan Dance.exe
-D:\Software University\C# Fundamentals\C# Advanced\3.Matrices\Matrices Exercises\10.The Heigan Dance\10.The Heigan Dance\obj\Debug\10.The Heigan Dance.pdb

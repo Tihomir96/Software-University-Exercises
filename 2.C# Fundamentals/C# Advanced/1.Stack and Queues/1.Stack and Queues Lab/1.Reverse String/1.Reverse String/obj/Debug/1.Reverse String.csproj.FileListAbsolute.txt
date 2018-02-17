@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\1.Reverse String\1.Reverse String\bin\Debug\1.Reverse String.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\1.Reverse String\1.Reverse String\bin\Debug\1.Reverse String.exe
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\1.Reverse String\1.Reverse String\bin\Debug\1.Reverse String.pdb
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\1.Reverse String\1.Reverse String\obj\Debug\1.Reverse String.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\1.Reverse String\1.Reverse String\obj\Debug\1.Reverse String.exe
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\1.Reverse String\1.Reverse String\obj\Debug\1.Reverse String.pdb

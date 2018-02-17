@@ -1,5 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\3.Animal Farm\AnimalFarm\bin\Debug\AnimalFarm.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\3.Animal Farm\AnimalFarm\bin\Debug\AnimalFarm.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\3.Animal Farm\AnimalFarm\bin\Debug\AnimalFarm.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\3.Animal Farm\AnimalFarm\obj\Debug\AnimalFarm.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\2.Encapsulation\Encapsulation - Exercises\3.Animal Farm\AnimalFarm\obj\Debug\AnimalFarm.pdb

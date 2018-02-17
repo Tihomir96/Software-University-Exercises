@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\5.Hot Potato\5.Hot Potato\bin\Debug\5.Hot Potato.exe.config
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\5.Hot Potato\5.Hot Potato\bin\Debug\5.Hot Potato.exe
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\5.Hot Potato\5.Hot Potato\bin\Debug\5.Hot Potato.pdb
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\5.Hot Potato\5.Hot Potato\obj\Debug\5.Hot Potato.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\5.Hot Potato\5.Hot Potato\obj\Debug\5.Hot Potato.exe
-D:\Software University\C# Fundamentals\C# Advanced\1.Stack and Queues Lab\5.Hot Potato\5.Hot Potato\obj\Debug\5.Hot Potato.pdb

@@ -1,6 +1,0 @@
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\5.Date modifier\5.Date modifier\bin\Debug\5.Date modifier.exe.config
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\5.Date modifier\5.Date modifier\bin\Debug\5.Date modifier.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\5.Date modifier\5.Date modifier\bin\Debug\5.Date modifier.pdb
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\5.Date modifier\5.Date modifier\obj\Debug\5.Date modifier.csprojResolveAssemblyReference.cache
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\5.Date modifier\5.Date modifier\obj\Debug\5.Date modifier.exe
-D:\Software University\C# Fundamentals\C# OOP Basics\1.Defining Classes\Defining Classes - Exercises\5.Date modifier\5.Date modifier\obj\Debug\5.Date modifier.pdb
