@@ -1,0 +1,5 @@
+SELECT e.FirstName , e.LastName ,e.HireDate , d.Name AS [DeptName] 
+FROM Employees as e 
+JOIN Departments as d ON e.DepartmentID= d.DepartmentID
+WHERE e.HireDate > '1/1/1999' AND d.Name ='Sales' OR d.Name ='Finance' 
+ORDER BY HireDate

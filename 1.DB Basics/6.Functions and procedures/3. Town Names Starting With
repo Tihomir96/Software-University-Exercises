@@ -1,0 +1,4 @@
+CREATE PROCEDURE usp_GetTownsStartingWith(@StartingWith NVARCHAR(5))
+AS
+SELECT Name FROM Towns
+WHERE SUBSTRING(Name , 1,LEN(@StartingWith)) = @StartingWith

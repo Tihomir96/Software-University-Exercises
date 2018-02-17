@@ -1,0 +1,8 @@
+CREATE PROCEDURE usp_GetHoldersWithBalanceHigherThan(@number DECIMAL(10,2))
+AS
+SELECT FirstName,LastName FROM AccountHolders AS ac
+INNER JOIN (SELECT a.AccountHolderId FROM Accounts AS a
+GROUP BY a.AccountHolderId
+HAVING SUM(Balance) > @number) AS acc
+ON acc.AccountHolderId = ac.Id
+ORDER BY LastName
