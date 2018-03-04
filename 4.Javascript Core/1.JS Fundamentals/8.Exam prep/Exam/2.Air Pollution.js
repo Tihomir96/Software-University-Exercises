@@ -51,12 +51,12 @@ function airPolution(matrixParams,cmdArr){
         let cmd = tokens[0].toLowerCase()
         let number = tokens[1]
         cmdObj[cmd](number)
-    }
     
     //check for polluted areas
     let polluted = []
     for (let row = 0; row < matrix.length; row++) {
-        for (let col = 0; col < matrix.length; col++) {
+
+    }        for (let col = 0; col < matrix.length; col++) {
             if(matrix[row][col]>=50){
                 polluted.push(`[${row}-${col}]`)
             }            

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Wiki Parser</title>
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div>
+        <p id="wiki">
+            =Document title= ==First segment== '''bold 1''' word ''italics 1'' '''bold2''' [[hyper first]] '''Bold three''' ''italics2'''
+            word [[hyper2]] [[hyperlink2|with Label]] ==Second segment== ===Third segment=== word '''word'''[[pipe|bomb]]
+        </p>
+    </div>
+    <script>
+        function wikiParser(selector){
+            let element = $(selector)
+            let h3Pattern = /===(.*)===/g
+            let h2Pattern = /==(.*)==/g
+            let h1Pattern = /=(.*)=/g
+            let anchorPattern =/\[\[([^\[\]]]+?)\|(.+?)\]\]/g
+            let singleAnchorPattern = /\[\[(.+?)\]\]/g
+            let boldPattern = /'''(.+?)'''/g
+            let italicPattern = /''(.*?)''/g
+            let text = element.text()
+            text = text
+                    .replace(h3Pattern,(m,group)=>`<h3>${group}</h3>`)
+                    .replace(h2Pattern,(m,group)=>`<h2>${group}</h2>`)
+                    .replace(h1Pattern,(m,group)=>`<h1>${group}</h1>`)
+                    .replace(anchorPattern,(m,group1,group2) => `<a href='/wiki/'${group1}'>${group2}</a>` )
+                    .replace(singleAnchorPattern,(m,group)=>  `<a href='/wiki/'${group}'>${group}</a>`)
+                    .replace(boldPattern,(m,group)=> `<b>${group}</b>`)
+                    .replace(italicPattern,(m,group)=>`<i>${group}</i>`)
+                    element.html(text)
+
+        }
+
+    </script>
+    <script>
+        window.onload = function () {
+            wikiParser('#wiki');
+        }
+    </script>
+</body>
+
+</html>

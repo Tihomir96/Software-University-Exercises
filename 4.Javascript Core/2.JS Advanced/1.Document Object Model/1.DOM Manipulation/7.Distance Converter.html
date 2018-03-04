@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Distance Converter</title>
+  <script>
+  function attachEventsListeners() {
+    let button = document.getElementById('convert')
+    button.addEventListener('click', Convert)
+
+    function Convert(event) {
+        let inputDistance = Number(document.getElementById('inputDistance').value)
+        var inputMenu = document.getElementById("inputUnits");
+        var fromOption = inputMenu.options[inputMenu.selectedIndex].text;
+        console.log(fromOption)
+        
+        let outputDistance = 0
+        var menu = document.getElementById("outputUnits");
+        var toOption = menu.options[menu.selectedIndex].text;
+        console.log(toOption)
+
+        let rates = {
+            'Kilometers' : 1000,
+            'Meters' : 1,
+            'Centimeters'  : 0.01,
+            'Millimeters' : 0.001,
+            'Miles' : 1609.34,
+            'Yards' : 0.9144,
+            'Feet' : 0.3048,
+            'Inches' : 0.0254
+        }
+        outputDistance = inputDistance * rates[fromOption]/rates[toOption]
+
+        document.getElementById('outputDistance').value = outputDistance
+    }
+}
+  </script>
+  <style>
+    label, input {
+      display: inline-block;
+      width: 5em;
+    }
+
+    label {
+      text-align: right;
+    }
+  </style>
+</head>
+<body onload="attachEventsListeners()">
+<h1>Distance Converter</h1>
+<div>
+  <label for="inputDistance">From:</label>
+  <input type="text" id="inputDistance">
+  <select id="inputUnits">
+    <option value="km">Kilometers</option>
+    <option value="m">Meters</option>
+    <option value="cm">Centimeters</option>
+    <option value="mm">Millimeters</option>
+    <option value="mi">Miles</option>
+    <option value="yrd">Yards</option>
+    <option value="ft">Feet</option>
+    <option value="in">Inches</option>
+  </select>
+  <input type="button" id="convert" value="Convert">
+</div>
+<div>
+  <label for="outputDistance">To:</label>
+  <input type="text" id="outputDistance" disabled="disabled">
+  <select id="outputUnits">
+    <option value="km">Kilometers</option>
+    <option value="m">Meters</option>
+    <option value="cm">Centimeters</option>
+    <option value="mm">Millimeters</option>
+    <option value="mi">Miles</option>
+    <option value="yrd">Yards</option>
+    <option value="ft">Feet</option>
+    <option value="in">Inches</option>
+  </select>
+</div>
+</body>
+</html>
